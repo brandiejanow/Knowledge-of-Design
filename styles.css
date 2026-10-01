@@ -173,3 +173,19 @@ h3{font-size:clamp(23px,2.1vw,34px);line-height:1.04;letter-spacing:.01em}
 .dataset-links{display:flex;gap:14px;justify-content:flex-end;padding-top:3px}
 .dataset-links a{font-size:11px;text-transform:uppercase;letter-spacing:.08em;text-underline-offset:4px}
 @media(max-width:700px){.dataset-row{grid-template-columns:1fr auto}.dataset-row>span{grid-column:2}.dataset-links{grid-column:1/3;justify-content:flex-start}}
+
+
+/* Official Knowledge of Design logo */
+.brandmark{display:inline-flex;align-items:center;line-height:0}
+.brandmark::before{
+  content:"";
+  display:block;
+  width:165px;
+  aspect-ratio:787 / 477;
+  background:url("assets/kod-logo-black.png?v=4") center/contain no-repeat;
+}
+.kod-logo{display:none!important}
+.on-dark .brandmark::before,.site-nav.on-dark .brandmark::before{filter:invert(1)}
+@media(max-width:700px){
+  .brandmark::before{width:145px}
+}
