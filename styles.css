@@ -632,3 +632,13 @@ h3{font-size:clamp(23px,2.1vw,34px);line-height:1.04;letter-spacing:.01em}
   .kod-founder-statement{padding:52px 24px 58px}
   .kod-founder-statement blockquote{font-size:24px}
 }
+
+
+/* Homepage restraint: keep Electric Blue only in small labels */
+.kod-home .site-nav{border-top:0!important}
+.kod-home .kod-visit{color:inherit!important}
+.kod-home .kod-toolbar input:focus,
+.kod-home .kod-toolbar select:focus{border-bottom-color:var(--ink)!important}
+.kod-home .kod-note a{color:inherit!important}
+.kod-home .kod-eyebrow,
+.kod-home .kod-section-label{color:#2F5CFF!important}
