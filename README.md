@@ -1,23 +1,22 @@
 # Knowledge of Design
 
-Public web repository for Knowledge of Design (KoD), a cross-disciplinary initiative examining design as a system of knowledge across science, technology, engineering, arts, and mathematics.
+Public archive for Knowledge of Design (KoD), preserving its editions, contributors, sessions, advisory research, publications, signals, and reference material.
 
-## Site structure
+## Archive structure
 
-- `index.html` — introduction, purpose, speculative design, STEAM framework
-- `research.html` — Advisory Circle, content taxonomy, Knowledge Vault, research findings, futures and signals
-- `editions.html` — 2024 and 2025 editions, contributors, sessions, advisory-board reflections
-- `global.html` — SXSW London 2026, Making a Design Culture research, workshop partners
-- `participate.html` — Rukun, partnership pathways, gratitude, contact
-- `styles.css` — KoD web adaptation of the 2026 brand system
-- `app.js` — small interaction layer
+- `index.html` — archive landing page and collection index
+- `people.html` — contributors from the 2024 and 2025 Riyadh editions with the STEAM fields recorded in the source material
+- `talks.html` — 2024 and 2025 sessions, formats, and descriptions
+- `editions.html` — 2024 and 2025 edition summaries and themes
+- `advisory.html` — Rukun Advisory Circle and advisory-board perspectives
+- `research.html` — Knowledge Vault, published research, content taxonomy, advisory findings, research questions, feedback-to-action record, and weak signals
+- `archive.html` — global archive including SXSW London 2026 and workshop partners
+- `styles.css` — minimal KoD web system based on the visual logic of Design Reservoir, using KoD type and accent colors
 
-## Brand system
+## Editorial principle
 
-The site follows the KoD 2026 brand guidelines: bold display typography, Inter body copy, saturated color and gradient grounds, a visible identity rail and content column, open gutter, and rotating warm/cool/dark/soft color combinations.
-
-The published brand book specifies **Bebas Neue Pro** for headlines. This public site currently uses the publicly available **Bebas Neue** web font as a close substitute. Replace it with the licensed webfont only when an appropriate web license and hosted font asset are available.
+This repository is an archive of documented Knowledge of Design activity, not a future-program or recruitment site. The source record is kept intact where possible. Contributor job titles are not invented when the source material records only STEAM classifications.
 
 ## Source
 
-Site content is drawn from the *KoD Compendium 2026* and the *KoD Brand Guidelines 2026*. No outside material has been added to the editorial content.
+The archive is based on the *KoD Compendium 2026* and the *KoD Brand Guidelines 2026*, with supporting KoD platform-overview material used only to confirm the contributor STEAM classifications already present in the Compendium.
