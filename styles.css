@@ -18,18 +18,18 @@ a{color:inherit}
 .grad-participate{--accent:var(--orange)}
 
 .site-nav{
-  min-height:82px;display:flex;align-items:center;justify-content:space-between;gap:28px;
-  padding:22px clamp(22px,5vw,74px);border-bottom:1px solid var(--line);background:#fff
+  min-height:72px;display:flex;align-items:center;justify-content:space-between;gap:28px;
+  padding:18px clamp(22px,5vw,74px);border-bottom:1px solid var(--line);background:#fff
 }
-.site-nav nav{display:flex;gap:28px;flex-wrap:wrap;justify-content:flex-start}
+.brandmark{
+  flex:0 0 auto;text-decoration:none;font-family:"Bebas Neue","Arial Narrow",sans-serif;
+  font-size:18px;line-height:.82;letter-spacing:.015em;color:#000;display:flex;flex-direction:column
+}
+.brandmark span{display:block}
+.site-nav nav{margin-left:auto;display:flex;gap:26px;flex-wrap:wrap;justify-content:flex-end}
 .site-nav nav a{text-decoration:none;font-size:12px;color:#333}
 .site-nav nav a:hover{text-decoration:underline;text-underline-offset:4px}
 .site-nav nav a.active{color:var(--accent);text-decoration:underline;text-underline-offset:4px}
-.brandmark{
-  margin-left:auto;flex:0 0 auto;text-decoration:none;font-family:"Bebas Neue","Arial Narrow",sans-serif;
-  font-size:18px;line-height:.82;letter-spacing:.015em;text-align:right;color:#000;display:flex;flex-direction:column
-}
-.brandmark span{display:block}
 
 .frame{display:block;max-width:1600px;margin:0 auto}
 .content{min-width:0}
@@ -146,4 +146,14 @@ h3{font-size:clamp(23px,2.1vw,34px);line-height:1.04;letter-spacing:.01em}
   .steam>div{min-height:95px;border-right:0;border-bottom:1px solid rgba(0,0,0,.14)}
   .steam>div:last-child{border-bottom:0}
   .footer{flex-direction:column}
+}
+
+.data-head{padding:28px clamp(22px,5vw,74px) 30px;border-bottom:1px solid var(--line);display:grid;grid-template-columns:minmax(120px,.35fr) minmax(0,1fr);gap:32px;align-items:start}
+.data-head .page-name{margin:0;font-family:"Bebas Neue","Arial Narrow",sans-serif;font-size:28px;line-height:1;letter-spacing:.015em;color:#111}
+.data-head>p:last-child{margin:1px 0 0;max-width:780px;font-size:14px;line-height:1.55;color:#4b4b4b}
+.section{padding-top:36px}
+@media(max-width:700px){
+  .site-nav{display:block}.brandmark{margin-bottom:16px}.site-nav nav{display:flex;margin-left:0;gap:14px 18px}
+  .data-head{grid-template-columns:1fr;gap:8px;padding-top:24px;padding-bottom:24px}
+  .data-head .page-name{font-size:25px}
 }
