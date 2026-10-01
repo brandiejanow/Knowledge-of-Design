@@ -136,7 +136,7 @@ h3{font-size:clamp(23px,2.1vw,34px);line-height:1.04;letter-spacing:.01em}
   .grid-3 .card:nth-child(2n){border-right:0}
 }
 @media(max-width:700px){
-  .site-nav{align-items:flex-start}.site-nav nav{display:none}.kod-logo{width:142px}
+  .site-nav{align-items:flex-start}.site-nav nav{display:none}.kod-logo{width:170px}
   .hero h1{font-size:clamp(54px,18vw,84px);line-height:1.02}
   .section-head{grid-template-columns:1fr;gap:22px}
   .collection-row{grid-template-columns:1fr 28px;gap:14px}
@@ -156,7 +156,7 @@ h3{font-size:clamp(23px,2.1vw,34px);line-height:1.04;letter-spacing:.01em}
 .data-head>p:last-child{margin:1px 0 0;max-width:780px;font-size:14px;line-height:1.55;color:#4b4b4b}
 .section{padding-top:36px}
 @media(max-width:700px){
-  .site-nav{display:block}.brandmark{margin-bottom:16px}.kod-logo{width:142px}.site-nav nav{display:flex;margin-left:0;gap:14px 18px}
+  .site-nav{display:block}.brandmark{margin-bottom:16px}.kod-logo{width:170px}.site-nav nav{display:flex;margin-left:0;gap:14px 18px}
   .data-head{grid-template-columns:1fr;gap:8px;padding-top:24px;padding-bottom:24px}
   .data-head .page-name{font-size:25px}
 }
