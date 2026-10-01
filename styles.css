@@ -441,3 +441,54 @@ h3{font-size:clamp(23px,2.1vw,34px);line-height:1.04;letter-spacing:.01em}
   .kod-home .kod-logo-home{width:142px}
   .kod-home .kod-hero{padding-top:44px;padding-bottom:46px}
 }
+
+
+/* Final KoD logo treatment — full stacked mark */
+.brandmark{
+  position:relative;
+  flex:0 0 160px;
+  width:160px;
+  height:97px;
+  padding:0!important;
+  margin:0;
+  overflow:visible;
+}
+.brandmark>*{display:none!important}
+.brandmark::before{
+  content:"";
+  position:absolute;
+  inset:0;
+  display:block!important;
+  width:160px!important;
+  height:97px!important;
+  aspect-ratio:auto!important;
+  background-image:url("assets/kod-logo-transparent-black.png?v=8")!important;
+  background-color:transparent!important;
+  background-repeat:no-repeat!important;
+  background-position:left center!important;
+  background-size:contain!important;
+  filter:none!important;
+}
+.on-dark .brandmark::before,
+.site-nav.on-dark .brandmark::before{
+  filter:invert(1)!important;
+}
+.kod-home .brandmark::before{display:block!important}
+.kod-home .kod-logo-home{display:none!important}
+
+/* Archive / Global — KoD Midnight Navy */
+.grad-archive{--accent:#0C1A3B}
+.grad-archive .site-nav nav a.active{color:#0C1A3B}
+.grad-archive .eyebrow{color:#0C1A3B}
+
+@media(max-width:700px){
+  .brandmark{
+    flex-basis:142px;
+    width:142px;
+    height:86px;
+  }
+  .brandmark::before{
+    width:142px!important;
+    height:86px!important;
+  }
+}
