@@ -2,37 +2,67 @@
 <html lang="en">
 <head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<meta name="description" content="Knowledge of Design archive — editions, people, talks, advisory research, publications, signals and reference material.">
-<title>Knowledge of Design Archive</title><link rel="stylesheet" href="styles.css">
+<meta name="description" content="Knowledge of Design — people, talks, editions, advisory records, research, publications, signals, and global activity.">
+<title>Knowledge of Design</title>
+<link rel="stylesheet" href="styles.css?v=6">
 </head>
-<body class="site grad-home">
-<header class="site-nav"><a class="brandmark" href="index.html" aria-label="Knowledge of Design">
-<svg class="kod-logo" viewBox="0 0 300 62" role="img" aria-label="Knowledge of Design">
-  <text x="0" y="43" class="kod-logo-main">Knowledge</text>
-  <text x="200" y="42" class="kod-logo-sub">of Design</text>
-</svg>
-</a><nav><a class="active" href="index.html">Archive</a><a href="people.html">People</a><a href="talks.html">Talks</a><a href="editions.html">Editions</a><a href="advisory.html">Advisory</a><a href="research.html">Research</a><a href="archive.html">Global</a></nav></header>
+<body class="site grad-home kod-home">
+<header class="site-nav">
+  <a class="brandmark" href="index.html" aria-label="Knowledge of Design">
+    <svg class="kod-logo" viewBox="0 0 300 62" role="img" aria-label="Knowledge of Design">
+      <text x="0" y="43" class="kod-logo-main">Knowledge</text>
+      <text x="200" y="42" class="kod-logo-sub">of Design</text>
+    </svg>
+  </a>
+  <nav>
+    <a href="people.html">People</a>
+    <a href="talks.html">Talks</a>
+    <a href="editions.html">Editions</a>
+    <a href="advisory.html">Advisory</a>
+    <a href="research.html">Research</a>
+    <a href="archive.html">Global</a>
+  </nav>
+</header>
 
-<div class="frame"><main class="content">
-<section class="home-intro">
-<p class="home-intro-lead">Knowledge of Design is a global initiative dedicated to advancing design as a field of knowledge.</p>
-<p>Grounded in science, technology, engineering, arts, and mathematics, it examines how design informs systems, environments, decisions, and how we live. Its record spans research, publications, workshops, partnerships, annual editions, and public programming.</p>
-<p>The archive keeps that material accessible beyond a single gathering, preserving the people, questions, evidence, and research that have accumulated through the initiative.</p>
-</section>
+<main>
+  <section class="kod-hero">
+    <p class="kod-eyebrow">Index / Knowledge of Design</p>
+    <h1>Knowledge <span>of Design</span></h1>
+    <p class="kod-intro">KoD is a global initiative dedicated to advancing design as a field of knowledge. Grounded in science, technology, engineering, arts, and mathematics, it examines how design informs systems, environments, decisions, and how we live. Its record spans research, publications, workshops, partnerships, annual editions, and public programming.</p>
+    <p class="kod-meta">6 collections · 113 records</p>
+  </section>
 
-<section class="section">
-<p class="eyebrow">Datasets</p>
-<div class="dataset-list">
-<div class="dataset-row"><div><h2>People</h2><p>Contributors documented across the 2024 and 2025 Riyadh editions, with recorded STEAM fields.</p></div><span>60 records</span><div class="dataset-links"><a href="people.html">View</a></div></div>
-<div class="dataset-row"><div><h2>Talks</h2><p>Session titles, formats, themes, and descriptions from the 2024 and 2025 editions.</p></div><span>17 records</span><div class="dataset-links"><a href="talks.html">View</a></div></div>
-<div class="dataset-row"><div><h2>Editions</h2><p>Dates, locations, themes, and summaries for the 2024 and 2025 Riyadh editions.</p></div><span>2 records</span><div class="dataset-links"><a href="editions.html">View</a></div></div>
-<div class="dataset-row"><div><h2>Advisory</h2><p>Rukun Advisory Circle members with documented roles, biographies, and affiliations.</p></div><span>2 records</span><div class="dataset-links"><a href="advisory.html">View</a></div></div>
-<div class="dataset-row"><div><h2>Research</h2><p>Published research, industry insights, open research questions, Knowledge Vault records, and weak signals.</p></div><span>24 records</span><div class="dataset-links"><a href="research.html">View</a></div></div>
-<div class="dataset-row"><div><h2>Global</h2><p>SXSW London, panel records, workshop partners, and related global activity.</p></div><span>8 records</span><div class="dataset-links"><a href="archive.html">View</a></div></div>
-</div>
-</section>
+  <section class="kod-directory" aria-label="Knowledge of Design directory">
+    <div class="kod-toolbar">
+      <label class="kod-search">
+        <span>Search</span>
+        <input id="search" type="search" placeholder="People, research, sessions…" autocomplete="off">
+      </label>
+      <label>
+        <span>Resource type</span>
+        <select id="type"><option value="">All resource types</option></select>
+      </label>
+      <label>
+        <span>Keyword</span>
+        <select id="keyword"><option value="">All keywords</option></select>
+      </label>
+    </div>
 
-</main></div>
+    <div class="kod-directory-head">
+      <p id="resultCount">6 of 6 collections</p>
+      <button id="clear" type="button">Clear filters</button>
+    </div>
 
-<footer class="footer"><span>© Rukun Creative Exchange</span><span>Research · Editions · Archive</span></footer>
-</body></html>
+    <div id="list" class="kod-resource-list"></div>
+    <p id="empty" class="kod-empty" hidden>No collections match those filters.</p>
+  </section>
+
+  <section class="kod-note">
+    <p>The archive keeps KoD material accessible beyond a single gathering, preserving the people, questions, evidence, research, and activity that have accumulated through the initiative.</p>
+  </section>
+</main>
+
+<footer class="footer"><span>© Rukun Creative Exchange</span><span>Knowledge of Design</span></footer>
+<script src="app.js?v=6"></script>
+</body>
+</html>
