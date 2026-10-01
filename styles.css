@@ -152,6 +152,10 @@ h3{font-size:clamp(23px,2.1vw,34px);line-height:1.04;letter-spacing:.01em}
 }
 
 .data-head{padding:28px clamp(22px,5vw,74px) 30px;border-bottom:1px solid var(--line);display:grid;grid-template-columns:minmax(120px,.35fr) minmax(0,1fr);gap:32px;align-items:start}
+.home-intro{padding:42px clamp(22px,5vw,74px) 46px;border-bottom:1px solid var(--line);max-width:980px}
+.home-intro p{margin:0 0 16px;max-width:830px;font-size:14px;line-height:1.65;color:#393939}
+.home-intro p:last-child{margin-bottom:0}
+.home-intro .home-intro-lead{font-size:clamp(18px,1.6vw,23px);line-height:1.45;color:#111;letter-spacing:-.01em}
 .data-head .page-name{margin:0;font-family:"Bebas Neue","Arial Narrow",sans-serif;font-size:28px;line-height:1;letter-spacing:.015em;color:#111}
 .data-head>p:last-child{margin:1px 0 0;max-width:780px;font-size:14px;line-height:1.55;color:#4b4b4b}
 .section{padding-top:36px}
