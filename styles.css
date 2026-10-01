@@ -421,3 +421,23 @@ h3{font-size:clamp(23px,2.1vw,34px);line-height:1.04;letter-spacing:.01em}
   .kod-visit{grid-column:2;grid-row:1}
   .kod-note{padding:40px 24px 56px}
 }
+
+/* Homepage logo + hero refinement */
+.kod-home .brandmark::before{display:none!important}
+.kod-home .kod-logo-home{
+  display:block!important;
+  width:158px;
+  height:auto;
+  object-fit:contain;
+}
+.kod-home .kod-hero{
+  padding-top:clamp(54px,7vw,96px);
+  padding-bottom:clamp(52px,7vw,88px);
+}
+.kod-home .kod-intro{
+  margin-top:0;
+}
+@media(max-width:700px){
+  .kod-home .kod-logo-home{width:142px}
+  .kod-home .kod-hero{padding-top:44px;padding-bottom:46px}
+}
