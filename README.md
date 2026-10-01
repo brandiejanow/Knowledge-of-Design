@@ -1,22 +1,26 @@
 # Knowledge of Design
 
-Public archive for Knowledge of Design, preserving its editions, contributors, sessions, advisory research, publications, signals, and reference material.
+This repository is a structured public data source for Knowledge of Design. The HTML pages are minimal human-readable views of the datasets; the CSV files in `data/` are the underlying records.
 
-## Archive structure
+## Datasets
 
-- `index.html` — archive landing page and collection index
-- `people.html` — contributors from the 2024 and 2025 Riyadh editions with the STEAM fields recorded in the source material
-- `talks.html` — 2024 and 2025 sessions, formats, and descriptions
-- `editions.html` — 2024 and 2025 edition summaries and themes
-- `advisory.html` — Rukun Advisory Circle and advisory-board perspectives
-- `research.html` — Knowledge Vault, published research, content taxonomy, advisory findings, research questions, feedback-to-action record, and weak signals
-- `archive.html` — global archive including SXSW London and workshop partners
-- `styles.css` — minimal Knowledge of Design web system based on the visual logic of Design Reservoir, using KoD type and accent colors
+- `data/people.csv` — 2024 and 2025 contributors and documented STEAM classifications
+- `data/talks.csv` — session titles, formats, themes, and descriptions
+- `data/editions.csv` — edition dates, locations, themes, and summaries
+- `data/advisory.csv` — Rukun Advisory Circle records
+- `data/research.csv` — published research, Knowledge Vault records, industry insights, research questions, and weak signals
+- `data/global.csv` — SXSW London, panel records, workshop partners, and related activity
+
+## Human-readable views
+
+- `index.html` — dataset catalog
+- `people.html`
+- `talks.html`
+- `editions.html`
+- `advisory.html`
+- `research.html`
+- `archive.html`
 
 ## Editorial principle
 
-This repository is an archive of documented Knowledge of Design activity, not a future-program or recruitment site. The source record is kept intact where possible. Contributor job titles are not invented when the source material records only STEAM classifications.
-
-## Source
-
-The archive is based on Knowledge of Design source material and brand guidelines, with supporting platform-overview material used only to confirm contributor STEAM classifications already present in the source record.
+This is an archive and data source, not a promotional or recruitment site. Records are based on documented Knowledge of Design source material. When a contributor's professional title is not present in the source record, the dataset states that rather than inventing one.
