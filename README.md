@@ -1,19 +1,19 @@
 # Knowledge of Design
 
-This repository is a structured public data source for Knowledge of Design. The HTML pages are minimal human-readable views of the datasets; the CSV files in `data/` are the underlying records.
+This repository is a structured public data source for Knowledge of Design. The public pages are minimal human-readable views of the underlying archive records.
 
-## Datasets
+## Collections
 
-- `data/people.csv` — 2024 and 2025 contributors and documented STEAM classifications
-- `data/talks.csv` — session titles, formats, themes, and descriptions
-- `data/editions.csv` — edition dates, locations, themes, and summaries
-- `data/advisory.csv` — Rukun Advisory Circle records
-- `data/research.csv` — published research, Knowledge Vault records, industry insights, research questions, and weak signals
-- `data/global.csv` — SXSW London, panel records, workshop partners, and related activity
+- People — 2024 and 2025 contributors and documented STEAM classifications
+- Talks — session titles, formats, themes, and descriptions
+- Editions — edition dates, locations, themes, and summaries
+- Advisory — Rukun Advisory Circle records
+- Research — published research, Knowledge Vault records, industry insights, research questions, and weak signals
+- Global — SXSW London, panel records, workshop partners, and related activity
 
 ## Human-readable views
 
-- `index.html` — dataset catalog
+- `index.html` — collection catalog
 - `people.html`
 - `talks.html`
 - `editions.html`
@@ -23,4 +23,4 @@ This repository is a structured public data source for Knowledge of Design. The 
 
 ## Editorial principle
 
-This is an archive and data source, not a promotional or recruitment site. Records are based on documented Knowledge of Design source material. When a contributor's professional title is not present in the source record, the dataset states that rather than inventing one.
+This is an archive and data source, not a promotional or recruitment site. Records are based on documented Knowledge of Design source material. When a contributor's professional title is not present in the source record, the archive states that rather than inventing one.
