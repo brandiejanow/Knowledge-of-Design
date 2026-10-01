@@ -189,3 +189,65 @@ h3{font-size:clamp(23px,2.1vw,34px);line-height:1.04;letter-spacing:.01em}
 @media(max-width:700px){
   .brandmark::before{width:145px}
 }
+
+
+/* Header and homepage spacing refinement */
+.site-nav{
+  min-height:auto;
+  padding:24px clamp(30px,5.5vw,82px);
+  gap:44px;
+  align-items:center;
+}
+.brandmark{
+  flex:0 0 auto;
+  padding:4px 0;
+}
+.brandmark::before{
+  width:158px;
+  aspect-ratio:829 / 500;
+  background-position:left center;
+  filter:brightness(0);
+}
+.on-dark .brandmark::before,
+.site-nav.on-dark .brandmark::before{
+  filter:brightness(0) invert(1);
+}
+.site-nav nav{
+  gap:24px 28px;
+  align-items:center;
+}
+.home-intro{
+  max-width:none;
+  padding:52px clamp(30px,5.5vw,82px) 56px;
+}
+.home-intro p{
+  max-width:770px;
+}
+.home-intro .home-intro-lead{
+  max-width:770px;
+  margin-bottom:20px;
+  font-size:clamp(20px,1.8vw,25px);
+  line-height:1.42;
+}
+@media(max-width:700px){
+  .site-nav{
+    padding:22px 24px 24px;
+  }
+  .brandmark{
+    margin-bottom:18px;
+    padding:0;
+  }
+  .brandmark::before{
+    width:142px;
+  }
+  .site-nav nav{
+    gap:11px 18px;
+    line-height:1.4;
+  }
+  .home-intro{
+    padding:38px 24px 42px;
+  }
+  .home-intro .home-intro-lead{
+    font-size:20px;
+  }
+}
