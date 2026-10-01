@@ -22,10 +22,13 @@ a{color:inherit}
   padding:18px clamp(22px,5vw,74px);border-bottom:1px solid var(--line);background:#fff
 }
 .brandmark{
-  flex:0 0 auto;text-decoration:none;font-family:"Bebas Neue","Arial Narrow",sans-serif;
-  font-size:18px;line-height:.82;letter-spacing:.015em;color:#000;display:flex;flex-direction:column
+  flex:0 0 auto;text-decoration:none;color:#111;display:inline-flex;align-items:center;
 }
-.brandmark span{display:block}
+.kod-logo{display:block;width:148px;height:auto;overflow:visible}
+.kod-logo text{fill:currentColor}
+.kod-logo-main{font-family:"Inter",Arial,sans-serif;font-size:40px;font-weight:600;letter-spacing:-2px}
+.kod-logo-sub{font-family:"Inter",Arial,sans-serif;font-size:17px;font-weight:400;letter-spacing:-.45px}
+.on-dark .brandmark,.site-nav.on-dark .brandmark{color:#fff}
 .site-nav nav{margin-left:auto;display:flex;gap:26px;flex-wrap:wrap;justify-content:flex-end}
 .site-nav nav a{text-decoration:none;font-size:12px;color:#333}
 .site-nav nav a:hover{text-decoration:underline;text-underline-offset:4px}
@@ -133,7 +136,7 @@ h3{font-size:clamp(23px,2.1vw,34px);line-height:1.04;letter-spacing:.01em}
   .grid-3 .card:nth-child(2n){border-right:0}
 }
 @media(max-width:700px){
-  .site-nav{align-items:flex-start}.site-nav nav{display:none}.brandmark{font-size:17px}
+  .site-nav{align-items:flex-start}.site-nav nav{display:none}.kod-logo{width:142px}
   .hero h1{font-size:clamp(54px,18vw,84px);line-height:1.02}
   .section-head{grid-template-columns:1fr;gap:22px}
   .collection-row{grid-template-columns:1fr 28px;gap:14px}
@@ -153,7 +156,7 @@ h3{font-size:clamp(23px,2.1vw,34px);line-height:1.04;letter-spacing:.01em}
 .data-head>p:last-child{margin:1px 0 0;max-width:780px;font-size:14px;line-height:1.55;color:#4b4b4b}
 .section{padding-top:36px}
 @media(max-width:700px){
-  .site-nav{display:block}.brandmark{margin-bottom:16px}.site-nav nav{display:flex;margin-left:0;gap:14px 18px}
+  .site-nav{display:block}.brandmark{margin-bottom:16px}.kod-logo{width:142px}.site-nav nav{display:flex;margin-left:0;gap:14px 18px}
   .data-head{grid-template-columns:1fr;gap:8px;padding-top:24px;padding-bottom:24px}
   .data-head .page-name{font-size:25px}
 }
