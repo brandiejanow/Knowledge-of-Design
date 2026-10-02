@@ -3,7 +3,7 @@ const collections=[
 {name:"Talks",description:"Session titles, formats, themes, and descriptions from the 2024 and 2025 editions.",type:"Sessions",keywords:["Talks","Panels","Keynotes"],count:"17 records",url:"talks.html"},
 {name:"Editions",description:"Dates, locations, themes, and summaries for the 2024 and 2025 Riyadh editions.",type:"Editions",keywords:["Riyadh","2024","2025"],count:"2 records",url:"editions.html"},
 {name:"Advisory",description:"Rukun Advisory Circle members with documented roles, biographies, affiliations, and research records.",type:"Advisory",keywords:["Advisory","Industry","Research"],count:"2 records",url:"advisory.html"},
-{name:"Research",description:"Published research, industry insights, open research questions, publications, frameworks, and weak signals.",type:"Research",keywords:["Publications","Signals","Frameworks","Knowledge Vault"],count:"24 records",url:"research.html"},
+{name:"Research",description:"Published research, industry insights, open research questions, publications, frameworks, and weak signals.",type:"Research",keywords:["Publications","Signals","Frameworks","Research sessions"],count:"33 records",url:"research.html"},
 {name:"Global",description:"SXSW London, panel records, workshop partners, and related global activity.",type:"Global",keywords:["SXSW London","Workshops","Partnerships"],count:"8 records",url:"archive.html"}
 ];
 const els={search:document.querySelector("#search"),type:document.querySelector("#type"),keyword:document.querySelector("#keyword"),list:document.querySelector("#list"),count:document.querySelector("#resultCount"),empty:document.querySelector("#empty"),clear:document.querySelector("#clear")};
