@@ -8,7 +8,7 @@ This repository is a structured public data source for Knowledge of Design. The 
 - Talks — session titles, formats, themes, and descriptions
 - Editions — edition dates, locations, themes, and summaries
 - Advisory — Rukun Advisory Circle records
-- Research — published research, Knowledge Vault records, industry insights, research questions, and weak signals
+- Research — published research, research sessions, frameworks, industry insights, research questions, and signals
 - Global — SXSW London, panel records, workshop partners, and related activity
 
 ## Human-readable views
@@ -24,3 +24,10 @@ This repository is a structured public data source for Knowledge of Design. The 
 ## Editorial principle
 
 This is an archive and data source, not a promotional or recruitment site. Records are based on documented Knowledge of Design source material. When a contributor's professional title is not present in the source record, the archive states that rather than inventing one.
+
+## Links
+
+- Website: https://www.brandiejanow.com/
+- KoD LinkedIn: https://www.linkedin.com/showcase/knowledge-of-design/
+- KoD Instagram: https://www.instagram.com/knowledge_of_design/
+- Rukun: https://github.com/Rukun-sa/Index
