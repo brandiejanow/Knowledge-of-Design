@@ -642,3 +642,9 @@ h3{font-size:clamp(23px,2.1vw,34px);line-height:1.04;letter-spacing:.01em}
 .kod-home .kod-note a{color:inherit!important}
 .kod-home .kod-eyebrow,
 .kod-home .kod-section-label{color:#2F5CFF!important}
+
+.provenance-quote-section{padding-top:38px;padding-bottom:52px}
+.provenance-quote{max-width:920px;font-size:clamp(18px,2vw,28px);line-height:1.35;letter-spacing:-.015em}
+.provenance-quote-section .quote-by a{text-underline-offset:3px}
+.section-head h2 a{text-decoration:none}
+.section-head h2 a:hover{text-decoration:underline;text-underline-offset:5px}
