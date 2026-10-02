@@ -31,3 +31,8 @@ This is an archive and data source, not a promotional or recruitment site. Recor
 - KoD LinkedIn: https://www.linkedin.com/showcase/knowledge-of-design/
 - KoD Instagram: https://www.instagram.com/knowledge_of_design/
 - Rukun: https://github.com/Rukun-sa/Index
+
+## Full research publications
+
+- `making-a-design-culture.html` — full readable research publication
+- `data/making-a-design-culture.json` — structured research data for the publication
