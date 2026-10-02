@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter:wght@400;500;600&display=swap');
 
 :root{
-  --ink:#111;--muted:#6f6f6f;--line:#d8d8d8;--paper:#fff;--soft:#f6f6f4;
+  --ink:#111;--muted:#6f6f6f;--line:#d8d8d8;--paper:#fafafa;--soft:#f6f6f4;
   --yellow:#FFF500;--red:#FF1A1A;--blue:#2F5CFF;--orange:#FF4B00;--pink:#FF2D95;
   --acid:#9FFF00;--purple:#D43DFF;--aqua:#00F5D4;--gold:#FFC700;--beige:#F5EADA;
   --accent:#2F5CFF;
