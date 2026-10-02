@@ -1,61 +1,61 @@
-name,edition_year,steam_fields,role_or_title,record_type
-Abdullah AlSadeq,2024,Engineering; Arts,Not specified in source record,Contributor
-Adam Kucharski,2024,Science; Arts,Not specified in source record,Contributor
-Ahmed Nour,2024,Arts,Not specified in source record,Contributor
-Alwaleed Albaik,2024,Engineering; Arts; Technology,Not specified in source record,Contributor
-Ammar Habib Mohamed,2024,Engineering; Arts,Not specified in source record,Contributor
-Amwaj Alzahrani,2024,Science; Arts,Not specified in source record,Contributor
-Arwa Hussein,2024,Technology; Arts,Not specified in source record,Contributor
-Bishr Alroumi,2024,Engineering; Arts,Not specified in source record,Contributor
-Elena Boheme,2024,Engineering; Arts,Not specified in source record,Contributor
-Fahad Saud Aljomid,2024,Engineering; Arts,Not specified in source record,Contributor
-Faris Alkhaldi,2024,Engineering; Arts,Not specified in source record,Contributor
-Hernán Hoentsch,2024,Engineering; Arts,Not specified in source record,Contributor
-HRH Princess Noura bint Saud,2024,Arts,Not specified in source record,Contributor
-Iain Cooper,2024,Arts,Not specified in source record,Contributor
-Jumana Wafa,2024,Arts,Not specified in source record,Contributor
-Lojain Rafaa,2024,Science; Arts,Not specified in source record,Contributor
-Maan Bajnaid,2024,Engineering; Arts,Not specified in source record,Contributor
-Mariana F. De' Carli,2024,Science; Arts,Not specified in source record,Contributor
-Mirna Abdrabbuh,2024,Engineering; Arts,Not specified in source record,Contributor
-Mohammed Alsuayegh,2024,Engineering; Technology,Not specified in source record,Contributor
-Nadia Dahir,2024,Science,Not specified in source record,Contributor
-Palavi Kele,2024,Science,Not specified in source record,Contributor
-Raghad Al-Barrag,2024,Arts,Not specified in source record,Contributor
-Rui Manuel Rodrigues Gonçalves,2024,Engineering; Arts,Not specified in source record,Contributor
-Sal Kurdi-Serafi,2024,Technology; Arts,Not specified in source record,Contributor
-Salman Alarifi,2024,Engineering; Arts; Science,Not specified in source record,Contributor
-Sarah Albaiz,2024,Arts,Not specified in source record,Contributor
-Tina Azar,2024,Arts,Not specified in source record,Contributor
-Tina Sabic,2024,Arts,Not specified in source record,Contributor
-Tolu Odusanya,2024,Engineering; Arts; Science,Not specified in source record,Contributor
-Yahya AlGhamdi,2024,Engineering; Arts,Not specified in source record,Contributor
-Yousif Alsaeed,2024,Engineering; Arts; Science,Not specified in source record,Contributor
-Abir Almadani,2025,Arts; Technology,Not specified in source record,Contributor
-Abdulaziz Alsunusi,2025,Arts,Not specified in source record,Contributor
-Abdullah Y AlYahya,2025,Engineering; Arts,Not specified in source record,Contributor
-Amwaj Alzahrani,2025,Science; Arts,Not specified in source record,Contributor
-Baraa Al Jilani,2025,Engineering; Technology,Not specified in source record,Contributor
-Basma Bouzo,2025,Science,Not specified in source record,Contributor
-Doaa Habis,2025,Engineering; Arts,Not specified in source record,Contributor
-Douha Attiah,2025,Science; Arts,Not specified in source record,Contributor
-Dr. Manuel Schubert,2025,Science; Mathematics,Not specified in source record,Contributor
-Dr. Noorh Albadi,2025,Arts,Not specified in source record,Contributor
-Dr. Reem Al Turki,2025,Science,Not specified in source record,Contributor
-Dr. Salma Ghulman,2025,Arts,Not specified in source record,Contributor
-Hernán Hoentsch,2025,Engineering; Arts; Technology,Not specified in source record,Contributor
-Hind Alessa,2025,Engineering; Arts; Science,Not specified in source record,Contributor
-HRH Princess Noura bint Saud,2025,Arts,Not specified in source record,Contributor
-Lojain Rafa,2025,Science; Arts,Not specified in source record,Contributor
-Maan Bajnaid,2025,Engineering; Arts,Not specified in source record,Contributor
-Nawaf Dohan,2025,Technology; Arts,Not specified in source record,Contributor
-Paulo Pimentel,2025,Arts,Not specified in source record,Contributor
-Razan M. AlMazroo,2025,Technology; Science; Mathematics,Not specified in source record,Contributor
-Sarah AlBaiz,2025,Technology; Arts,Not specified in source record,Contributor
-Sheikha Fouz Al Sabah,2025,Arts,Not specified in source record,Contributor
-Simon Shaw,2025,Arts,Not specified in source record,Contributor
-Soha Khan,2025,Arts,Not specified in source record,Contributor
-Syam Jamaly,2025,Arts; Mathematics,Not specified in source record,Contributor
-Turki Fageera,2025,Technology; Mathematics,Not specified in source record,Contributor
-Yahya AlGhamdi,2025,Engineering; Arts,Not specified in source record,Contributor
-Yehia Madkour,2025,Engineering; Arts,Not specified in source record,Contributor
+name,edition_year,steam_fields,role_or_title,record_type,linkedin_url
+Abdullah AlSadeq,2024,Engineering; Arts,Not specified in source record,Contributor,https://sa.linkedin.com/in/abdullah-alsadeq-0a1793297
+Adam Kucharski,2024,Science; Arts,Not specified in source record,Contributor,https://sa.linkedin.com/in/askucharski
+Ahmed Nour,2024,Arts,Not specified in source record,Contributor,https://sa.linkedin.com/in/ahmed-nour-3138501b1
+Alwaleed Albaik,2024,Engineering; Arts; Technology,Not specified in source record,Contributor,https://sa.linkedin.com/in/alwaleed-albaik-937a8b239
+Ammar Habib Mohamed,2024,Engineering; Arts,Not specified in source record,Contributor,https://om.linkedin.com/in/ammar-habib-mohamed-7aa78323
+Amwaj Alzahrani,2024,Science; Arts,Not specified in source record,Contributor,https://sa.linkedin.com/in/amwaj-alzahrani
+Arwa Hussein,2024,Technology; Arts,Not specified in source record,Contributor,https://sa.linkedin.com/in/arwah
+Bishr Alroumi,2024,Engineering; Arts,Not specified in source record,Contributor,https://sa.linkedin.com/in/bishralroumi
+Elena Boheme,2024,Engineering; Arts,Not specified in source record,Contributor,https://sa.linkedin.com/in/elenaboheme
+Fahad Saud Aljomid,2024,Engineering; Arts,Not specified in source record,Contributor,https://sa.linkedin.com/in/fahad-saud-aljomid-36a720389
+Faris Alkhaldi,2024,Engineering; Arts,Not specified in source record,Contributor,https://sa.linkedin.com/in/faris-alkhaldi-112a69270
+Hernán Hoentsch,2024,Engineering; Arts,Not specified in source record,Contributor,https://sa.linkedin.com/in/hern%C3%A1n-hoentsch-3543255a
+HRH Princess Noura bint Saud,2024,Arts,Not specified in source record,Contributor,https://sa.linkedin.com/in/noura-saud-naif-%D9%86%D9%88%D8%B1%D8%A9-%D8%B3%D8%B9%D9%88%D8%AF-%D9%86%D8%A7%D9%8A%D9%81-85383448
+Iain Cooper,2024,Arts,Not specified in source record,Contributor,https://sa.linkedin.com/in/cooperman61
+Jumana Wafa,2024,Arts,Not specified in source record,Contributor,https://sa.linkedin.com/in/jumanawafa
+Lojain Rafaa,2024,Science; Arts,Not specified in source record,Contributor,https://sa.linkedin.com/in/lojainalamri
+Maan Bajnaid,2024,Engineering; Arts,Not specified in source record,Contributor,https://sa.linkedin.com/in/maan-%D9%85%D9%8E%D8%B9%D9%92%D9%86-bajnaid-%D8%A8%D9%8E%D8%A7%D8%AC%D9%86%D9%8A%D8%AF-76a6528
+Mariana F. De' Carli,2024,Science; Arts,Not specified in source record,Contributor,https://sa.linkedin.com/in/marianadecarli
+Mirna Abdrabbuh,2024,Engineering; Arts,Not specified in source record,Contributor,https://sa.linkedin.com/in/mirna-abdrabbuh-5000612ba
+Mohammed Alsuayegh,2024,Engineering; Technology,Not specified in source record,Contributor,https://sa.linkedin.com/in/malsuayegh
+Nadia Dahir,2024,Science,Not specified in source record,Contributor,
+Palavi Kele,2024,Science,Not specified in source record,Contributor,https://sa.linkedin.com/in/palavi-kele-5957b051
+Raghad Al-Barrag,2024,Arts,Not specified in source record,Contributor,https://sa.linkedin.com/in/raghad-al-barrag
+Rui Manuel Rodrigues Gonçalves,2024,Engineering; Arts,Not specified in source record,Contributor,https://sa.linkedin.com/in/ruirodriguesgon%C3%A7alves
+Sal Kurdi-Serafi,2024,Technology; Arts,Not specified in source record,Contributor,https://sa.linkedin.com/in/sal-kurdi-serafi-0b3a064
+Salman Alarifi,2024,Engineering; Arts; Science,Not specified in source record,Contributor,https://sa.linkedin.com/in/salman-alarifi-651560258
+Sarah Albaiz,2024,Arts,Not specified in source record,Contributor,https://sa.linkedin.com/in/sarah-albaiz
+Tina Azar,2024,Arts,Not specified in source record,Contributor,https://sa.linkedin.com/in/tinaazar
+Tina Sabic,2024,Arts,Not specified in source record,Contributor,https://sa.linkedin.com/in/tsablic
+Tolu Odusanya,2024,Engineering; Arts; Science,Not specified in source record,Contributor,https://sg.linkedin.com/in/tolu-odusanya
+Yahya AlGhamdi,2024,Engineering; Arts,Not specified in source record,Contributor,https://sa.linkedin.com/in/yahya-alghamdi
+Yousif Alsaeed,2024,Engineering; Arts; Science,Not specified in source record,Contributor,https://sa.linkedin.com/in/yousif-alsaeed-a26a00162
+Abir Almadani,2025,Arts; Technology,Not specified in source record,Contributor,https://sa.linkedin.com/in/abir-almadani-61a7621b1
+Abdulaziz Alsunusi,2025,Arts,Not specified in source record,Contributor,https://sa.linkedin.com/in/abdulaziz-alsunusi
+Abdullah Y AlYahya,2025,Engineering; Arts,Not specified in source record,Contributor,https://sa.linkedin.com/in/abdullahyaly
+Amwaj Alzahrani,2025,Science; Arts,Not specified in source record,Contributor,https://sa.linkedin.com/in/amwaj-alzahrani
+Baraa Al Jilani,2025,Engineering; Technology,Not specified in source record,Contributor,https://sa.linkedin.com/in/baraa-al-jilani-40595349
+Basma Bouzo,2025,Science,Not specified in source record,Contributor,https://sa.linkedin.com/in/basmabouzo
+Doaa Habis,2025,Engineering; Arts,Not specified in source record,Contributor,https://sa.linkedin.com/in/doaa-habis-38710b21
+Douha Attiah,2025,Science; Arts,Not specified in source record,Contributor,https://sa.linkedin.com/in/douha-attiah-01737654
+Dr. Manuel Schubert,2025,Science; Mathematics,Not specified in source record,Contributor,https://sa.linkedin.com/in/manuel-schubert
+Dr. Noorh Albadi,2025,Arts,Not specified in source record,Contributor,https://sa.linkedin.com/in/noorh-albadi-93623343
+Dr. Reem Al Turki,2025,Science,Not specified in source record,Contributor,https://sa.linkedin.com/in/dr-reemaltorki
+Dr. Salma Ghulman,2025,Arts,Not specified in source record,Contributor,https://uk.linkedin.com/in/salma-ghulman-phd-2511392b
+Hernán Hoentsch,2025,Engineering; Arts; Technology,Not specified in source record,Contributor,https://sa.linkedin.com/in/hern%C3%A1n-hoentsch-3543255a
+Hind Alessa,2025,Engineering; Arts; Science,Not specified in source record,Contributor,https://sa.linkedin.com/in/hind-alessa
+HRH Princess Noura bint Saud,2025,Arts,Not specified in source record,Contributor,https://sa.linkedin.com/in/noura-saud-naif-%D9%86%D9%88%D8%B1%D8%A9-%D8%B3%D8%B9%D9%88%D8%AF-%D9%86%D8%A7%D9%8A%D9%81-85383448
+Lojain Rafa,2025,Science; Arts,Not specified in source record,Contributor,https://sa.linkedin.com/in/lojainalamri
+Maan Bajnaid,2025,Engineering; Arts,Not specified in source record,Contributor,https://sa.linkedin.com/in/maan-%D9%85%D9%8E%D8%B9%D9%92%D9%86-bajnaid-%D8%A8%D9%8E%D8%A7%D8%AC%D9%86%D9%8A%D8%AF-76a6528
+Nawaf Dohan,2025,Technology; Arts,Not specified in source record,Contributor,https://sa.linkedin.com/in/nawaf-dohan-8b196ba9
+Paulo Pimentel,2025,Arts,Not specified in source record,Contributor,https://uk.linkedin.com/in/paulo-pimentel-735a8910
+Razan M. AlMazroo,2025,Technology; Science; Mathematics,Not specified in source record,Contributor,https://sa.linkedin.com/in/razanalmazroo
+Sarah AlBaiz,2025,Technology; Arts,Not specified in source record,Contributor,https://sa.linkedin.com/in/sarah-albaiz
+Sheikha Fouz Al Sabah,2025,Arts,Not specified in source record,Contributor,https://kw.linkedin.com/in/fouzalsabah
+Simon Shaw,2025,Arts,Not specified in source record,Contributor,https://sa.linkedin.com/in/simonshaw
+Soha Khan,2025,Arts,Not specified in source record,Contributor,https://sa.linkedin.com/in/soha-khan-2702a920
+Syam Jamaly,2025,Arts; Mathematics,Not specified in source record,Contributor,
+Turki Fageera,2025,Technology; Mathematics,Not specified in source record,Contributor,https://sa.linkedin.com/in/tfageera
+Yahya AlGhamdi,2025,Engineering; Arts,Not specified in source record,Contributor,https://sa.linkedin.com/in/yahya-alghamdi
+Yehia Madkour,2025,Engineering; Arts,Not specified in source record,Contributor,https://sa.linkedin.com/in/yehiamadkour
