@@ -1,7 +1,7 @@
 const collections=[
 {name:"People",description:"Contributors documented across the 2024 and 2025 Riyadh editions, with recorded STEAM fields.",type:"Directory",keywords:["Contributors","STEAM","Riyadh"],count:"60 records",url:"people.html"},
 {name:"Talks",description:"Session titles, formats, themes, and descriptions from the 2024 and 2025 editions.",type:"Sessions",keywords:["Talks","Panels","Keynotes"],count:"17 records",url:"talks.html"},
-{name:"Editions",description:"Dates, locations, themes, and summaries for the 2024 and 2025 Riyadh editions.",type:"Editions",keywords:["Riyadh","2024","2025"],count:"2 records",url:"editions.html"},
+{name:"Editions",description:"Dates, locations, themes, and summaries for the 2024, 2025, and 2026 Riyadh editions.",type:"Editions",keywords:["Riyadh","2024","2025","2026"],count:"3 records",url:"editions.html"},
 {name:"Advisory",description:"Rukun Advisory Circle members with documented roles, biographies, affiliations, and research records.",type:"Advisory",keywords:["Advisory","Industry","Research"],count:"2 records",url:"advisory.html"},
 {name:"Research",description:"Published research, industry insights, open research questions, publications, frameworks, and weak signals.",type:"Research",keywords:["Publications","Signals","Frameworks","Research sessions"],count:"33 records",url:"research.html"},
 {name:"Global",description:"SXSW London, panel records, workshop partners, and related global activity.",type:"Global",keywords:["SXSW London","Workshops","Partnerships"],count:"8 records",url:"archive.html"}
