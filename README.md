@@ -36,3 +36,7 @@ This is an archive and data source, not a promotional or recruitment site. Recor
 
 - `making-a-design-culture.html`: full readable research publication
 - `data/making-a-design-culture.json`: structured research data for the publication
+
+## Editorial writing style
+
+Do not use em dashes in website copy, research writing, public data labels, metadata, or documentation. Use commas, colons, parentheses, or full stops as appropriate. Preserve the intended meaning and source attribution when revising historical text. Treat this as the standard for future updates.
