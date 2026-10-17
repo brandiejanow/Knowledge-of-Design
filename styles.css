@@ -253,7 +253,7 @@ h3{font-size:clamp(23px,2.1vw,34px);line-height:1.04;letter-spacing:.01em}
 }
 
 
-/* KoD homepage — Design Reservoir layout language */
+/* KoD homepage: Design Reservoir layout language */
 .brandmark::before{
   background-image:url("assets/kod-logo-transparent-black.png?v=6");
   background-color:transparent;
@@ -443,7 +443,7 @@ h3{font-size:clamp(23px,2.1vw,34px);line-height:1.04;letter-spacing:.01em}
 }
 
 
-/* Final KoD logo treatment — full stacked mark */
+/* Final KoD logo treatment: full stacked mark */
 .brandmark{
   position:relative;
   flex:0 0 160px;
@@ -476,7 +476,7 @@ h3{font-size:clamp(23px,2.1vw,34px);line-height:1.04;letter-spacing:.01em}
 .kod-home .brandmark::before{display:block!important}
 .kod-home .kod-logo-home{display:none!important}
 
-/* Archive / Global — KoD Midnight Navy */
+/* Archive / Global: KoD Midnight Navy */
 .grad-archive{--accent:#0C1A3B}
 .grad-archive .site-nav nav a.active{color:#0C1A3B}
 .grad-archive .eyebrow{color:#0C1A3B}
