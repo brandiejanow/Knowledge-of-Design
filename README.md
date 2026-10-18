@@ -39,3 +39,8 @@ Use no em dashes in website copy, metadata, documentation, or publications. Use 
 ## Related research websites
 
 [Design Reservoir](https://brandiejanow.github.io/design-reservoir/) is Brandie Janow's global design resource directory. [Saudi Creative Economy](https://brandiejanow.github.io/Saudi-Creative-Ecosystem-Observatory/) publishes her separate independent study of Saudi creative-sector development.
+
+## Publication review standard
+
+Public copy describes research, methods, participants, evidence, dates and findings in clear, direct sentences. Use American English, affirmative wording and varied sentence structures. Keep the focus on information that readers can verify or investigate. Original quotations, formal institution names, historical event titles, citations and URLs retain their source wording. Review public pages, search descriptions, data labels and publication summaries before each release.
+
