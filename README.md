@@ -14,10 +14,11 @@ A public record of the people, programs, research, and conversations developing 
 - **Advisory:** Advisory records and documented perspectives
 - **Global:** International activities and collaborations
 
-The homepage features the primary sections of Knowledge of Design. Research links, program information and source provenance are organized within their respective collections.
+The homepage introduces the initiative and features the original publication *Making a Design Culture*. The navigation leads to the people, talks, editions, programmes, research, advisory record and global activity.
 
 ## Research publications
 
+- [Design Ecosystems](https://brandiejanow.github.io/Knowledge-of-Design/design-ecosystems.html) is an ongoing research programme on the layers, relationships and responsibilities within design ecosystems.
 - [Making a Design Culture](https://brandiejanow.github.io/Knowledge-of-Design/making-a-design-culture.html) is a full, readable research publication.
 - [KoD Connect: The Project Before the Project](https://brandiejanow.github.io/Knowledge-of-Design/connect.html#session-01) is the first online session record.
 
@@ -34,3 +35,7 @@ The public record distinguishes a documented session from its interpretation. Pr
 Use no em dashes in website copy, metadata, documentation, or publications. Use commas, full stops, colons, or parentheses instead.
 
 [Sources and provenance](https://brandiejanow.github.io/Knowledge-of-Design/provenance.html)
+
+## Related research websites
+
+[Design Reservoir](https://brandiejanow.github.io/design-reservoir/) is Brandie Janow's global design resource directory. [Saudi Creative Economy](https://brandiejanow.github.io/Saudi-Creative-Ecosystem-Observatory/) publishes her separate independent study of Saudi creative-sector development.
