@@ -85,3 +85,5 @@
 .eco-lifecycle>div{min-height:160px;padding:20px 15px}
 @media(max-width:850px){.eco-section-head{grid-template-columns:1fr;gap:8px}}
 @media(max-width:570px){.eco-hero{padding:36px 22px 39px}.eco-hero h1{font-size:clamp(47px,10vw,63px);margin-bottom:14px}.eco-deck{font-size:18px}.eco-section,.eco-overview{padding:32px 22px}.eco-section-head h2{font-size:30px}.eco-metrics strong{font-size:40px}.eco-metrics>div{min-height:155px}.eco-lifecycle>div{min-height:145px}}
+
+@media(max-width:570px){.eco-system-figure{overflow-x:auto}.eco-system-figure svg{min-width:650px}.eco-system-figure figcaption{min-width:280px}}
