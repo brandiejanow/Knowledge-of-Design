@@ -20,7 +20,6 @@ The homepage features the primary sections of Knowledge of Design. Research link
 
 - [Making a Design Culture](https://brandiejanow.github.io/Knowledge-of-Design/making-a-design-culture.html) is a full, readable research publication.
 - [KoD Connect: The Project Before the Project](https://brandiejanow.github.io/Knowledge-of-Design/connect.html#session-01) is the first online session record.
-- [Research questions from KoD Connect](https://brandiejanow.github.io/Knowledge-of-Design/research.html#kod-connect-research) are preliminary thematic notes based on the public session description. They are not represented as transcript-verified findings or quotations.
 
 ## Structured data
 
