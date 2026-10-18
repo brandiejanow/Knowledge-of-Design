@@ -1,42 +1,37 @@
 # Knowledge of Design
 
-This repository is a structured public data source for Knowledge of Design. The public pages are minimal human-readable views of the underlying archive records.
+A public record of the people, programs, research, and conversations developing Knowledge of Design. The website presents a concise directory; individual pages and structured data files preserve the material behind it.
 
-## Collections
+**[Explore Knowledge of Design](https://brandiejanow.github.io/Knowledge-of-Design/)**
 
-- People: past contributors from the 2024 and 2025 editions with documented STEAM classifications
-- Talks: session titles, formats, themes, and descriptions
-- Editions: 2024, 2025, and 2026 edition dates, locations, themes, and summaries
-- Advisory: Rukun Advisory Circle records
-- Research: published research, research sessions, frameworks, industry insights, research questions, and signals
-- Global: SXSW London, panel records, workshop partners, and related activity
+## Main collections
 
-## Human-readable views
+- **People:** Contributors and their documented fields
+- **Talks:** Sessions and topics from the annual editions
+- **Editions:** Riyadh programs and their history
+- **KoD Connect:** Online conversations connecting practitioners internationally and in Saudi Arabia
+- **Research:** Publications, focus groups, research dialogues, and carefully qualified emerging findings
+- **Advisory:** Advisory records and documented perspectives
+- **Global:** International activities and collaborations
 
-- `index.html`: Start Here and collection catalog
-- `people.html`
-- `talks.html`
-- `editions.html`
-- `advisory.html`
-- `research.html`
-- `archive.html`
+The homepage intentionally contains only these entry points. Research links, program information, and source provenance are organized in their respective sections rather than repeated as secondary menus.
 
-## Editorial principle
+## Research publications
 
-This is an archive and data source, not a promotional or recruitment site. Records are based on documented Knowledge of Design source material. When a contributor's professional title is not present in the source record, the archive states that rather than inventing one.
+- [Making a Design Culture](https://brandiejanow.github.io/Knowledge-of-Design/making-a-design-culture.html) is a full, readable research publication.
+- [KoD Connect: The Project Before the Project](https://brandiejanow.github.io/Knowledge-of-Design/connect.html#session-01) is the first online session record.
+- [Research questions from KoD Connect](https://brandiejanow.github.io/Knowledge-of-Design/research.html#kod-connect-research) are preliminary thematic notes based on the public session description. They are not represented as transcript-verified findings or quotations.
 
-## Links
+## Structured data
 
-- Website: https://www.brandiejanow.com/
-- KoD LinkedIn: https://www.linkedin.com/showcase/knowledge-of-design/
-- KoD Instagram: https://www.instagram.com/knowledge_of_design/
-- Rukun: https://github.com/Rukun-sa/Index
+- `data/people.csv`, `data/talks.csv`, `data/editions.csv`, `data/advisory.csv`, `data/global.csv`, and `data/research.csv` preserve research and archive records.
+- `data/connect.csv` provides a growing record of online sessions, with links to associated inquiry notes.
+- `data/making-a-design-culture.json` preserves structured publication data.
 
-## Full research publications
+## Publication integrity
 
-- `making-a-design-culture.html`: full readable research publication
-- `data/making-a-design-culture.json`: structured research data for the publication
+The public record distinguishes a documented session from its interpretation. Preliminary inquiries stay marked as such until original recordings have been checked. Personal contact information, private meeting details, and unpublished participant material are not exposed by the current archive.
 
-## Editorial writing style
+Use no em dashes in website copy, metadata, documentation, or publications. Use commas, full stops, colons, or parentheses instead.
 
-Do not use em dashes in website copy, research writing, public data labels, metadata, or documentation. Use commas, colons, parentheses, or full stops as appropriate. Preserve the intended meaning and source attribution when revising historical text. Treat this as the standard for future updates.
+[Sources and provenance](https://brandiejanow.github.io/Knowledge-of-Design/provenance.html)
