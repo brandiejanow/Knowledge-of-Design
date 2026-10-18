@@ -14,7 +14,7 @@ A public record of the people, programs, research, and conversations developing 
 - **Advisory:** Advisory records and documented perspectives
 - **Global:** International activities and collaborations
 
-The homepage intentionally contains only these entry points. Research links, program information, and source provenance are organized in their respective sections rather than repeated as secondary menus.
+The homepage features the primary sections of Knowledge of Design. Research links, program information and source provenance are organized within their respective collections.
 
 ## Research publications
 
