@@ -10,7 +10,7 @@ A public record of the people, programs, research, and conversations developing 
 - **Talks:** Sessions and topics from the annual editions
 - **Editions:** Riyadh programs and their history
 - **KoD Connect:** Online conversations connecting practitioners internationally and in Saudi Arabia
-- **Research:** Publications, focus groups, research dialogues, and carefully qualified emerging findings
+- **Research:** Publications, focus groups, research dialogues, and research findings with documented sources
 - **Advisory:** Advisory records and documented perspectives
 - **Global:** International activities and collaborations
 
@@ -25,7 +25,7 @@ The homepage introduces the initiative and features the original publication *Ma
 ## Structured data
 
 - `data/people.csv`, `data/talks.csv`, `data/editions.csv`, `data/advisory.csv`, `data/global.csv`, and `data/research.csv` preserve research and archive records.
-- `data/connect.csv` provides a growing record of online sessions, with links to associated inquiry notes.
+- `data/connect.csv` provides the record of online sessions, with links to associated inquiry notes.
 - `data/making-a-design-culture.json` preserves structured publication data.
 
 ## Publication integrity
