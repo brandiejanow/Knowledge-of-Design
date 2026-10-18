@@ -746,3 +746,22 @@ h3{font-size:clamp(23px,2.1vw,34px);line-height:1.04;letter-spacing:.01em}
 .research-collection-heading .eyebrow{margin-bottom:13px}
 .research-collection-heading .body{max-width:880px}
 .research-collection-heading + .research-feature{border-top:0}
+
+/* Editorial homepage: featured original publication. */
+.visually-hidden{position:absolute!important;overflow:hidden!important;clip:rect(0,0,0,0)!important;white-space:nowrap!important;width:1px!important;height:1px!important;padding:0!important;border:0!important;margin:-1px!important}
+.kod-home-clean .kod-hero{padding-bottom:clamp(47px,6vw,78px)}
+.kod-home-publication{max-width:1600px;margin:0 auto;padding:clamp(43px,6vw,86px) clamp(22px,5vw,74px) clamp(38px,5vw,73px);display:grid;grid-template-columns:minmax(230px,.95fr) minmax(0,1.05fr);gap:clamp(28px,5vw,95px);border-bottom:1px solid var(--line)}
+.kod-home-publication .eyebrow{color:#2F5CFF;margin-bottom:25px}
+.kod-publication-head h2{font-size:clamp(46px,6vw,84px);line-height:1.04;margin:0 0 22px}
+.kod-publication-head h2 a{text-decoration:none}
+.kod-publication-head h2 a:hover{text-decoration:underline;text-underline-offset:6px}
+.kod-publication-subtitle{font-size:clamp(17px,1.65vw,22px);line-height:1.48;max-width:540px;margin:0;color:#404040}
+.kod-publication-body{padding-top:37px}
+.kod-publication-body>p:first-child{font-size:15px;line-height:1.75;color:#373737;max-width:650px;margin:0 0 29px}
+.kod-publication-statement{font-size:clamp(22px,2.25vw,32px);line-height:1.36;letter-spacing:-.025em;max-width:740px;margin:0 0 29px}
+.kod-publication-link,.kod-home-research-path>a{font-size:13px;font-weight:600;text-decoration:underline;text-underline-offset:5px}
+.kod-home-research-path{max-width:1600px;margin:0 auto;padding:29px clamp(22px,5vw,74px) 62px;display:flex;justify-content:space-between;gap:25px 70px;align-items:baseline}
+.kod-home-research-path p{font-size:14px;line-height:1.72;max-width:770px;margin:0;color:#414141}
+.kod-home-research-path p a{text-decoration:underline;text-underline-offset:4px}
+.kod-home-research-path>a{white-space:nowrap}
+@media(max-width:800px){.kod-home-publication{grid-template-columns:1fr;gap:10px}.kod-publication-body{padding-top:5px}.kod-publication-head h2{font-size:clamp(42px,9vw,70px)}.kod-home-research-path{flex-direction:column;align-items:flex-start}}
