@@ -125,24 +125,3 @@
   .eco-network-center{margin-bottom:4px}
   .eco-project-example{grid-template-columns:1fr;gap:14px}
 }
-
-
-/* Circular map of the effects connected to design decisions */
-.eco-circle-figure{margin:28px 0 0;border:1px solid var(--eco-line);padding:clamp(20px,3.5vw,40px);background:var(--paper)}
-.eco-circle-intro{display:grid;grid-template-columns:minmax(180px,.65fr) minmax(0,1.35fr);gap:36px;align-items:start}
-.eco-circle-intro h3{font-size:clamp(24px,2.7vw,34px);margin:0}
-.eco-circle-intro p{font-size:14px;line-height:1.7;color:#424242;margin:2px 0 0;max-width:490px}
-.eco-circle-map{position:relative;width:min(100%,560px);aspect-ratio:1;margin:22px auto 0;isolation:isolate}
-.eco-circle-ring{position:absolute;inset:13%;border:1.5px solid #aaa;border-radius:50%;z-index:0}
-.eco-circle-center{position:absolute;left:50%;top:50%;transform:translate(-50%,-50%);width:29%;aspect-ratio:1;z-index:2;border-radius:50%;border:2px solid var(--eco-blue);background:var(--paper);display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;padding:10px}
-.eco-circle-center span{font-size:11px;line-height:1.4;letter-spacing:.08em;text-transform:uppercase;color:var(--eco-blue)}
-.eco-circle-center strong{font-family:"Bebas Neue","Arial Narrow",sans-serif;font-size:clamp(25px,3vw,35px);font-weight:400;line-height:1.1;margin-top:5px}
-.eco-circle-node{position:absolute;width:25%;aspect-ratio:1;z-index:3;border:1px solid var(--eco-line);border-top:5px solid var(--eco-blue);border-radius:50%;display:flex;align-items:center;justify-content:center;text-align:center;background:var(--paper);padding:12px}
-.eco-circle-node span{font-size:clamp(11px,1.25vw,15px);line-height:1.35;font-weight:500;color:#2f2f2f}
-.eco-circle-top{top:1%;left:50%;transform:translateX(-50%);border-top-color:var(--eco-blue)}
-.eco-circle-upper-right{top:26%;right:0;border-top-color:var(--eco-pink)}
-.eco-circle-lower-right{bottom:4%;right:10%;border-top-color:var(--eco-orange)}
-.eco-circle-lower-left{bottom:4%;left:10%;border-top-color:#008d7e}
-.eco-circle-upper-left{top:26%;left:0;border-top-color:var(--eco-purple)}
-@media(max-width:700px){.eco-circle-intro{grid-template-columns:1fr;gap:8px}.eco-circle-node{border-top-width:4px;padding:7px}.eco-circle-node span{font-size:clamp(10px,2.4vw,13px)}.eco-circle-center span{font-size:9px}.eco-circle-center strong{font-size:clamp(18px,5vw,28px)}}
-@media(max-width:420px){.eco-circle-figure{padding:16px 10px 23px}.eco-circle-map{width:100%}.eco-circle-node{width:26%}.eco-circle-node span{font-size:10px;line-height:1.2}.eco-circle-upper-right{right:0}.eco-circle-upper-left{left:0}}
