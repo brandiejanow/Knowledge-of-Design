@@ -10,7 +10,7 @@ A public record of the people, programs, research, and conversations developing 
 - **Talks:** Sessions and topics from the annual editions
 - **Editions:** Riyadh programs and their history
 - **KoD Connect:** Online conversations connecting practitioners internationally and in Saudi Arabia
-- **Research:** Design education, design ecosystems, publications, and recorded speaker discussions
+- **Research:** Design education, design ecosystems, published papers, and recorded speaker focus groups
 - **Lessons Learned:** Program reviews, participant feedback, recommendations, and documented follow-up
 - **Advisory:** Members, discussions, and contributions
 - **Global:** International activities and collaborations
