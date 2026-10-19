@@ -18,7 +18,8 @@ The homepage introduces KoD through selected examples of publications, KoD Conne
 
 ## Research publications
 
-- [Design Ecosystems](https://brandiejanow.github.io/Knowledge-of-Design/design-ecosystems.html) is an ongoing research program on the layers, relationships and responsibilities within design ecosystems.
+- [Design Ecosystems](https://brandiejanow.github.io/Knowledge-of-Design/design-ecosystems.html) examines the people, institutions, materials, and decisions involved in design projects.
+- [Design Education and Its Future](https://brandiejanow.github.io/Knowledge-of-Design/design-education.html) examines education, STEAM, professional preparation, and connections between learning and practice. The study develops independently authored work begun in 2024 and is marked as research in development.
 - [Making a Design Culture](https://brandiejanow.github.io/Knowledge-of-Design/making-a-design-culture.html) is a full, readable research publication.
 - [KoD Connect: The Project Before the Project](https://brandiejanow.github.io/Knowledge-of-Design/connect.html#session-01) is the first online session record.
 
@@ -40,3 +41,9 @@ Use no em dashes in website copy, metadata, documentation, or publications. Use 
 
 Public copy describes research, methods, participants, evidence, dates and findings in clear, direct sentences. Use American English, affirmative wording and varied sentence structures. Keep the focus on information that readers can verify or investigate. Original quotations, formal institution names, historical event titles, citations and URLs retain their source wording. Review public pages, search descriptions, data labels and publication summaries before each release.
 
+
+## Research ownership and credits
+
+KoD preserves the complete history of its own programs and contributors. Work independently authored before KoD retains its own date and project record; KoD may develop a separate, properly credited study from that earlier work. The study page identifies the lead researcher and authors near the title and distinguishes contributors from research authors. Prior advisory work does not imply that a university adopted later proposals because of it.
+
+Before new research is added here, follow the project placement and publication rules in [AGENTS.md](AGENTS.md). Keep independent Saudi Creative Economy research in its own research publication and index it through the personal research catalogue. Keep the Rukun Saudi Creative Index limited to Rukun's own research.
