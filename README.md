@@ -14,11 +14,11 @@ A public record of the people, programs, research, and conversations developing 
 - **Advisory:** Advisory records and documented perspectives
 - **Global:** International activities and collaborations
 
-The homepage introduces the initiative and features the original publication *Making a Design Culture*. The navigation leads to the people, talks, editions, programmes, research, advisory record and global activity.
+The homepage introduces the initiative and features the original publication *Making a Design Culture*. The navigation leads to the people, talks, editions, programs, research, advisory record and global activity.
 
 ## Research publications
 
-- [Design Ecosystems](https://brandiejanow.github.io/Knowledge-of-Design/design-ecosystems.html) is an ongoing research programme on the layers, relationships and responsibilities within design ecosystems.
+- [Design Ecosystems](https://brandiejanow.github.io/Knowledge-of-Design/design-ecosystems.html) is an ongoing research program on the layers, relationships and responsibilities within design ecosystems.
 - [Making a Design Culture](https://brandiejanow.github.io/Knowledge-of-Design/making-a-design-culture.html) is a full, readable research publication.
 - [KoD Connect: The Project Before the Project](https://brandiejanow.github.io/Knowledge-of-Design/connect.html#session-01) is the first online session record.
 
