@@ -1,0 +1,59 @@
+
+/* Design Education and Its Future. Uses existing KoD color and type tokens. */
+.education-page .de-wrap{max-width:1600px;margin:auto}
+.education-page .de-hero,.education-page .de-section{padding:clamp(34px,4vw,64px) clamp(22px,5vw,74px);border-bottom:1px solid var(--line)}
+.education-page .de-hero{padding-top:42px}
+.education-page .de-kicker{font-size:11px;text-transform:uppercase;letter-spacing:.14em;color:var(--blue);margin:0 0 14px}
+.education-page .de-hero h1{font-size:28px;line-height:1.08;letter-spacing:.015em;margin:0 0 18px}
+.education-page .de-deck{font-size:clamp(19px,2.1vw,29px);line-height:1.34;letter-spacing:-.02em;max-width:930px;margin:0 0 22px}
+.education-page .de-credit{font-size:12px;line-height:1.6;margin:0;color:#555}
+.education-page .de-credit strong{font-weight:600;color:#111}
+.education-page .de-intro{font-size:15px;line-height:1.75;max-width:840px;margin:26px 0 0;color:#353535}
+.education-page .de-section h2{font-size:clamp(29px,3.4vw,46px);line-height:1.09;margin:0 0 17px}
+.education-page .de-section h3{font-size:clamp(22px,2.2vw,28px);margin:0 0 8px}
+.education-page .de-section p{font-size:14px;line-height:1.72;color:#393939;max-width:840px}
+.education-page .de-split{display:grid;grid-template-columns:minmax(190px,.63fr) minmax(0,1.37fr);gap:clamp(24px,4vw,65px)}
+.education-page .de-split>.de-section-intro p{font-size:12px}
+.education-page .de-metrics{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));border-top:1px solid var(--line);margin-top:32px}
+.education-page .de-metric{padding:22px 18px 15px 0;border-right:1px solid var(--line)}
+.education-page .de-metric:not(:first-child){padding-left:22px}
+.education-page .de-metric:last-child{border-right:0}
+.education-page .de-metric strong{display:block;font-family:"Bebas Neue","Arial Narrow",sans-serif;font-size:clamp(40px,5.5vw,72px);line-height:1;color:var(--blue);font-weight:400}
+.education-page .de-metric span{display:block;font-size:12px;line-height:1.5;color:#444;margin-top:10px}
+.education-page .de-timeline{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px;margin-top:27px}
+.education-page .de-time{border-top:4px solid var(--blue);padding:21px 15px 10px 0}
+.education-page .de-time:nth-child(2){border-color:var(--pink)}
+.education-page .de-time:nth-child(3){border-color:var(--purple)}
+.education-page .de-time .de-year{font-family:"Bebas Neue","Arial Narrow",sans-serif;font-size:37px;line-height:1.05;display:block;margin-bottom:12px}
+.education-page .de-time h3{font-size:24px}
+.education-page .de-time p{font-size:13px;margin:0}
+.education-page .de-figure{margin:20px 0 0}
+.education-page .de-figure-head{margin-bottom:25px}
+.education-page .de-figure-head p{margin:10px 0 0}
+.education-page .de-bars{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:4px 42px}
+.education-page .de-bar{display:grid;grid-template-columns:minmax(0,1.15fr) minmax(100px,1fr) 23px;align-items:center;gap:12px;padding:15px 0;border-top:1px solid var(--line)}
+.education-page .de-bar label{font-size:12px;color:#333;line-height:1.35}
+.education-page .de-track{height:14px;background:#ebebeb;display:block;position:relative}
+.education-page .de-fill{height:100%;display:block;background:var(--blue)}
+.education-page .de-bar:nth-child(4n+2) .de-fill{background:var(--pink)}
+.education-page .de-bar:nth-child(4n+3) .de-fill{background:var(--purple)}
+.education-page .de-bar:nth-child(4n) .de-fill{background:var(--orange)}
+.education-page .de-bar b{font-size:13px;font-variant-numeric:tabular-nums;text-align:right}
+.education-page .de-caption{font-size:12px!important;color:#626262!important;max-width:900px!important;line-height:1.65!important;margin-top:24px!important}
+.education-page .de-path{margin:28px 0 12px;display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:9px}
+.education-page .de-step{border-top:5px solid var(--blue);padding:17px 13px 15px 0;min-height:160px}
+.education-page .de-step:nth-child(2){border-color:var(--purple)}
+.education-page .de-step:nth-child(3){border-color:var(--pink)}
+.education-page .de-step:nth-child(4){border-color:var(--orange)}
+.education-page .de-step:nth-child(5){border-color:#009d86}
+.education-page .de-step h3{font-size:22px}
+.education-page .de-step p{font-size:12px;line-height:1.6;margin:8px 0}
+.education-page .de-questions{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:0 35px;margin-top:20px}
+.education-page .de-question{border-top:1px solid var(--line);padding:21px 0}
+.education-page .de-question p{margin:0}
+.education-page .de-doc{border-top:1px solid var(--line);padding:20px 0}
+.education-page .de-doc strong{display:block;font-size:13px;margin-bottom:8px}
+.education-page .de-doc p{margin:0}
+.education-page .de-next a{text-decoration:underline;text-underline-offset:4px}
+@media(max-width:900px){.education-page .de-split{grid-template-columns:1fr;gap:8px}.education-page .de-bars{grid-template-columns:1fr}.education-page .de-path{grid-template-columns:repeat(3,1fr)}}
+@media(max-width:650px){.education-page .de-hero,.education-page .de-section{padding:34px 22px}.education-page .de-timeline{grid-template-columns:1fr}.education-page .de-path{grid-template-columns:1fr}.education-page .de-step{min-height:0}.education-page .de-questions{grid-template-columns:1fr}.education-page .de-metric:not(:first-child){padding-left:10px}.education-page .de-metric{padding-right:8px}.education-page .de-bar{grid-template-columns:minmax(0,1fr) minmax(100px,1fr) 16px;gap:8px}.education-page .de-bar label{font-size:11px}}
