@@ -864,3 +864,26 @@ body.grad-research .lesson-record h3{font-size:clamp(22px,2.1vw,28px);line-heigh
 body.grad-research .lesson-record p{font-size:14px;line-height:1.67;color:#393939;margin:0 0 10px}
 body.grad-research .lesson-record .small{font-size:10px;color:#656565;margin:12px 0 0}
 @media(max-width:750px){body.grad-research .lesson-record{grid-template-columns:1fr;gap:12px}body.grad-research .section-head{gap:14px}}
+
+
+/* Research index. All titles share one editorial hierarchy and gutter. */
+body.kod-research-index .research-feature .section-head h2{font-size:clamp(28px,2.55vw,36px);line-height:1.1;margin:0 0 12px}
+body.kod-research-index .research-collection-heading h2,
+body.kod-research-index .research-focus-groups>h2{font-size:clamp(34px,3.05vw,43px);line-height:1.09;margin:0 0 13px}
+body.kod-research-index .research-sessions .card h3{font-size:clamp(23px,2.15vw,28px);line-height:1.12;margin:0 0 9px}
+body.kod-research-index .research-focus-groups .research-session-id{font-size:10.5px;color:var(--accent);letter-spacing:.12em;text-transform:uppercase;margin:0 0 13px}
+body.kod-research-index .research-focus-groups .research-session-date{font-size:12px;line-height:1.55;color:#656565;margin:0 0 12px}
+body.kod-research-index .research-focus-groups>.body{max-width:830px;margin:0 0 16px}
+body.kod-research-index .research-focus-groups .card{padding-top:23px;padding-bottom:24px}
+body.kod-research-index .research-collection-heading{padding-bottom:15px}
+body.kod-research-index .research-feature .section-head p.research-credit{font-size:10.5px;color:#666;line-height:1.65;letter-spacing:0;margin:16px 0 0}
+body.kod-research-index .de-figure-head h3{font-size:clamp(23px,2.25vw,30px);line-height:1.12}
+body.kod-research-index .eco-network-node h4{font-size:clamp(17px,1.8vw,22px)}
+@media(min-width:851px){
+body.kod-research-index .research-feature .section-head{grid-template-columns:minmax(245px,.86fr) minmax(0,1.14fr);gap:clamp(27px,3.5vw,49px)}
+body.kod-research-index .research-feature .section-head>div:first-child{padding-left:22px}
+body.kod-research-index .research-collection-heading>.eyebrow,
+body.kod-research-index .research-collection-heading>h2,
+body.kod-research-index .research-focus-groups>.eyebrow,
+body.kod-research-index .research-focus-groups>h2{margin-left:22px}
+}
