@@ -815,6 +815,12 @@ h3{font-size:clamp(23px,2.1vw,34px);line-height:1.04;letter-spacing:.01em}
 }
 
 
+/* Page headings use one compact hierarchy throughout the archive. */
+body.site .section-head h2{font-size:clamp(31px,3.45vw,48px);line-height:1.09}
+body.site .section>h2{font-size:clamp(32px,3.7vw,49px);line-height:1.09}
+body.site .section .card h3{font-size:clamp(23px,2.25vw,30px);line-height:1.1}
+body.site .section-head .eyebrow{margin-bottom:15px}
+
 /* Shared editorial sizing for KoD research, advisory records and articles. */
 body.grad-research .section-head h2{font-size:clamp(30px,3.2vw,44px);line-height:1.09;margin:0 0 14px}
 body.grad-research .section>h2{font-size:clamp(32px,3.6vw,46px);line-height:1.09;margin:0 0 18px}
