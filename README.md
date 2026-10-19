@@ -10,7 +10,8 @@ A public record of the people, programs, research, and conversations developing 
 - **Talks:** Sessions and topics from the annual editions
 - **Editions:** Riyadh programs and their history
 - **KoD Connect:** Online conversations connecting practitioners internationally and in Saudi Arabia
-- **Research:** Publications, focus groups, dialogues, and findings with source references
+- **Research:** Design education, design ecosystems, publications, and recorded speaker discussions
+- **Lessons Learned:** Program reviews, participant feedback, recommendations, and documented follow-up
 - **Advisory:** Members, discussions, and contributions
 - **Global:** International activities and collaborations
 
@@ -22,6 +23,7 @@ The homepage introduces KoD through selected examples of publications, KoD Conne
 - [Design Education and Its Future](https://brandiejanow.github.io/Knowledge-of-Design/research.html#design-education) examines AI in design education alongside curriculum, ethics, research, STEAM and industry preparation. The concise study and its curriculum chart are published within the Research page.
 - [Making a Design Culture](https://brandiejanow.github.io/Knowledge-of-Design/making-a-design-culture.html) is a full, readable research publication.
 - [KoD Connect: The Project Before the Project](https://brandiejanow.github.io/Knowledge-of-Design/connect.html#session-01) is the first online session record.
+- [Lessons Learned](https://brandiejanow.github.io/Knowledge-of-Design/lessons-learned.html) records feedback from the 2025 event review and the 2026 speaker discussion, distinguishing suggestions from verified decisions.
 
 ## Structured data
 
