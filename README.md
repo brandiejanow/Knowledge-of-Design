@@ -6,16 +6,15 @@ A public record of the people, programs, research, and conversations developing 
 
 ## Main collections
 
-- **People:** Contributors with STEAM categories based on educational backgrounds
-- **Talks:** Sessions and topics from the annual editions
 - **Editions:** Riyadh programs and their history
-- **KoD Connect:** Online conversations connecting practitioners internationally and in Saudi Arabia
+- **Sessions:** Panels, workshops, and roundtables from annual editions, with KoD Connect online sessions linked from the Sessions page
+- **People:** Contributors with STEAM categories based on educational backgrounds
+- **Global:** International activities and collaborations
+- **Advisory:** Members, discussions, and contributions
 - **Research:** Design education, design ecosystems, published papers, and recorded speaker focus groups
 - **Lessons Learned:** Program reviews, participant feedback, recommendations, and documented follow-up
-- **Advisory:** Members, discussions, and contributions
-- **Global:** International activities and collaborations
 
-The homepage introduces KoD through selected examples of publications, KoD Connect, and the Riyadh editions. The navigation leads to the people, talks, editions, programs, research, advisory record and global activity.
+The homepage introduces KoD through selected examples of publications, KoD Connect, and the Riyadh editions. The navigation leads to Editions, Sessions, People, Global, Advisory, and Research. Online KoD Connect sessions are linked from Sessions.
 
 ## Research publications
 
