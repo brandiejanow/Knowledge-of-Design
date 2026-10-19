@@ -1,20 +1,20 @@
-# Knowledge of Design
+# KoD
 
-A public record of the people, programs, research, and conversations developing Knowledge of Design. The website presents a concise directory; individual pages and structured data files preserve the material behind it.
+A public record of the people, programs, research, and conversations developing KoD. The website presents a concise directory; individual pages and structured data files preserve the material behind it.
 
-**[Explore Knowledge of Design](https://brandiejanow.github.io/Knowledge-of-Design/)**
+**[Explore KoD](https://brandiejanow.github.io/Knowledge-of-Design/)**
 
 ## Main collections
 
-- **People:** Contributors and their documented fields
+- **People:** Contributors with STEAM categories based on educational backgrounds
 - **Talks:** Sessions and topics from the annual editions
 - **Editions:** Riyadh programs and their history
 - **KoD Connect:** Online conversations connecting practitioners internationally and in Saudi Arabia
-- **Research:** Publications, focus groups, research dialogues, and research findings with documented sources
-- **Advisory:** Advisory records and documented perspectives
+- **Research:** Publications, focus groups, dialogues, and findings with source references
+- **Advisory:** Members, discussions, and contributions
 - **Global:** International activities and collaborations
 
-The homepage introduces the initiative and features the original publication *Making a Design Culture*. The navigation leads to the people, talks, editions, programs, research, advisory record and global activity.
+The homepage introduces KoD through selected examples of publications, KoD Connect, and the Riyadh editions. The navigation leads to the people, talks, editions, programs, research, advisory record and global activity.
 
 ## Research publications
 
@@ -30,7 +30,7 @@ The homepage introduces the initiative and features the original publication *Ma
 
 ## Publication integrity
 
-The public record distinguishes a documented session from its interpretation. Preliminary inquiries stay marked as such until original recordings have been checked. Personal contact information, private meeting details, and unpublished participant material are not exposed by the current archive.
+The public record distinguishes a session record from its interpretation. Preliminary inquiries stay marked as such until original recordings have been checked. Personal contact information, private meeting details, and unpublished participant material are not exposed by the current archive.
 
 Use no em dashes in website copy, metadata, documentation, or publications. Use commas, full stops, colons, or parentheses instead.
 
