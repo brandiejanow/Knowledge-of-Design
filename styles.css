@@ -968,3 +968,12 @@ body.kod-research-index .research-focus-groups>h2{margin-left:22px}
   .site-nav nav{gap:4px 8px;padding-bottom:2px}
   .site-nav nav a{font-size:10px}
 }
+
+/* KoD partner field research inside the focus groups section. */
+body.kod-research-index .research-partner{margin-top:32px;padding-top:27px;border-top:1px solid #e5e5e5}
+body.kod-research-index .research-partner>.eyebrow{margin-bottom:12px;color:var(--accent)}
+body.kod-research-index .research-partner>h3{font-size:clamp(27px,2.5vw,34px);line-height:1.1;margin:0 0 14px}
+body.kod-research-index .research-partner>.body{max-width:940px;margin:0 0 19px}
+body.kod-research-index .research-partner .card{padding-top:22px;padding-bottom:23px}
+body.kod-research-index .research-partner-credit{font-size:10.5px;line-height:1.65;color:#686868;max-width:950px;margin:17px 0 0}
+@media(min-width:851px){body.kod-research-index .research-partner>.eyebrow,body.kod-research-index .research-partner>h3{margin-left:22px}}
