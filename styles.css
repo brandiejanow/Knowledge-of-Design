@@ -813,3 +813,48 @@ h3{font-size:clamp(23px,2.1vw,34px);line-height:1.04;letter-spacing:.01em}
   .kod-overview-page .overview-section-heading>a{margin-left:0}
   .kod-overview-page .overview-hero>p{font-size:clamp(21px,5.5vw,28px)}
 }
+
+
+/* Shared editorial sizing for KoD research, advisory records and articles. */
+body.grad-research .section-head h2{font-size:clamp(30px,3.2vw,44px);line-height:1.09;margin:0 0 14px}
+body.grad-research .section>h2{font-size:clamp(32px,3.6vw,46px);line-height:1.09;margin:0 0 18px}
+body.grad-research .section .eyebrow{margin-bottom:15px}
+body.grad-research .section-head{margin-bottom:23px;gap:clamp(22px,3.2vw,44px)}
+body.grad-research .section{padding-top:clamp(30px,4vw,46px);padding-bottom:clamp(34px,4.2vw,54px)}
+body.grad-research .section .lead{font-size:clamp(17px,1.55vw,21px);line-height:1.44;margin:0 0 15px}
+body.grad-research .section .body{line-height:1.68;margin-bottom:13px}
+body.grad-research .research-feature .section-head h2{font-size:clamp(29px,2.85vw,39px);margin-bottom:12px}
+body.grad-research .research-collection-heading h2{font-size:clamp(34px,3.4vw,46px);margin:0 0 9px}
+body.grad-research .research-feature .section-head .lead{font-size:clamp(17px,1.45vw,20px)}
+body.grad-research .research-feature .section-head p.research-credit{font-size:10.5px;line-height:1.7;letter-spacing:.015em;color:#666;margin:18px 0 0;max-width:720px}
+body.grad-research .research-feature .section-head p.research-credit a{text-underline-offset:3px}
+body.grad-research .research-sessions .card h3{font-size:clamp(23px,2.15vw,29px);line-height:1.09}
+body.grad-research .research-sessions .card{padding-top:21px;padding-bottom:25px}
+body.grad-research .research-followup{margin-top:23px}
+body.grad-research .article-hero h1{font-size:clamp(50px,6.7vw,82px);line-height:1.06;margin:0 0 15px}
+body.grad-research .article-deck{font-size:clamp(19px,1.85vw,26px);line-height:1.32;margin:0 0 17px;max-width:900px}
+body.grad-research .article-hero{padding-top:clamp(42px,5vw,67px);padding-bottom:clamp(33px,4vw,54px)}
+body.grad-research .article-hero .body{font-size:11px;line-height:1.6;color:#656565}
+body.grad-research .article-section h2{font-size:clamp(31px,3.5vw,47px);line-height:1.08;margin:0 0 20px}
+body.grad-research .article-section .eyebrow{margin-bottom:16px}
+body.grad-research .framework-card h3{font-size:clamp(22px,2vw,27px)}
+body.grad-research .education-page .de-figure{margin-top:23px}
+body.grad-research .education-page .de-figure-head{margin-bottom:17px}
+body.grad-research .education-page .de-figure-head h3{font-size:clamp(24px,2.3vw,31px);line-height:1.1}
+body.grad-research .education-page .de-figure-head .body{margin:11px 0 0;max-width:880px}
+body.grad-research .education-page .de-bars{gap:2px 32px}
+body.grad-research .education-page .de-bar{grid-template-columns:minmax(0,1.25fr) minmax(85px,.75fr);gap:11px;padding:11px 0}
+body.grad-research .education-page .de-bar .chart-number-hidden{display:none}
+body.grad-research .education-page .de-bar label{font-size:12px;line-height:1.35}
+body.grad-research .education-page .de-caption{margin-top:14px!important;max-width:970px!important}
+body.grad-research .eco-layer-figure{margin-top:19px}
+body.grad-research .eco-network-node h4{font-size:clamp(17px,1.9vw,23px)}
+body.grad-research .eco-crosscut b{font-size:13px}
+body.grad-research .lessons-page{font-size:14px}
+body.grad-research .lesson-ledger{border-top:1px solid var(--line)}
+body.grad-research .lesson-record{display:grid;grid-template-columns:minmax(110px,.45fr) minmax(0,1fr) minmax(0,1fr);gap:30px;padding:23px 0;border-bottom:1px solid var(--line)}
+body.grad-research .lesson-topic{font-size:11px!important;line-height:1.4!important;letter-spacing:.08em;text-transform:uppercase;color:var(--blue)!important;margin:3px 0!important}
+body.grad-research .lesson-record h3{font-size:clamp(22px,2.1vw,28px);line-height:1.1;margin:0 0 9px}
+body.grad-research .lesson-record p{font-size:14px;line-height:1.67;color:#393939;margin:0 0 10px}
+body.grad-research .lesson-record .small{font-size:10px;color:#656565;margin:12px 0 0}
+@media(max-width:750px){body.grad-research .lesson-record{grid-template-columns:1fr;gap:12px}body.grad-research .section-head{gap:14px}}
