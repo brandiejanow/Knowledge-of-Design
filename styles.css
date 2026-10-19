@@ -887,3 +887,84 @@ body.kod-research-index .research-collection-heading>h2,
 body.kod-research-index .research-focus-groups>.eyebrow,
 body.kod-research-index .research-focus-groups>h2{margin-left:22px}
 }
+
+
+/* KoD header: navigation sits at the lower right of the full logo. */
+.site-nav,
+.kod-home .site-nav{
+  display:grid!important;
+  grid-template-columns:158px minmax(0,1fr);
+  align-items:end!important;
+  justify-content:stretch;
+  column-gap:clamp(16px,3.8vw,50px);
+  min-height:0;
+  padding:20px clamp(22px,5vw,74px) 16px!important;
+  border-top:0!important;
+  border-bottom:1px solid #e9e9e9!important;
+  box-shadow:none!important;
+}
+.site-nav .brandmark{
+  grid-column:1;
+  align-self:end;
+  margin:0!important;
+  padding:0!important;
+  min-width:0;
+}
+.site-nav .brandmark>.kod-logo{
+  display:block!important;
+  width:158px!important;
+  max-width:100%!important;
+  height:auto!important;
+}
+.site-nav nav{
+  grid-column:2;
+  display:flex!important;
+  flex-wrap:wrap;
+  justify-content:flex-end!important;
+  align-content:flex-end;
+  align-items:center;
+  justify-self:stretch;
+  align-self:end;
+  min-width:0;
+  width:100%;
+  margin:0!important;
+  padding:0 0 6px;
+  gap:9px clamp(12px,1.55vw,25px);
+}
+.site-nav nav a{
+  font-size:11px;
+  line-height:1.55;
+  white-space:nowrap;
+}
+@media(max-width:850px){
+  .site-nav,
+  .kod-home .site-nav{
+    grid-template-columns:136px minmax(0,1fr);
+    padding:19px 24px 13px!important;
+    column-gap:18px;
+  }
+  .site-nav .brandmark>.kod-logo{width:136px!important}
+  .site-nav nav{gap:7px 14px;padding-bottom:5px}
+}
+@media(max-width:700px){
+  .site-nav,
+  .kod-home .site-nav{
+    grid-template-columns:114px minmax(0,1fr);
+    padding:15px 18px 12px!important;
+    column-gap:14px;
+  }
+  .site-nav .brandmark>.kod-logo{width:114px!important}
+  .site-nav nav{gap:5px 10px;padding-bottom:3px}
+  .site-nav nav a{font-size:10.5px;line-height:1.45}
+}
+@media(max-width:380px){
+  .site-nav,
+  .kod-home .site-nav{
+    grid-template-columns:96px minmax(0,1fr);
+    padding:13px 14px 11px!important;
+    column-gap:11px;
+  }
+  .site-nav .brandmark>.kod-logo{width:96px!important}
+  .site-nav nav{gap:4px 8px;padding-bottom:2px}
+  .site-nav nav a{font-size:10px}
+}
