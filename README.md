@@ -19,7 +19,7 @@ The homepage introduces KoD through selected examples of publications, KoD Conne
 ## Research publications
 
 - [Design Ecosystems](https://brandiejanow.github.io/Knowledge-of-Design/research.html#design-ecosystems) presents a six area model on the Research page, examining culture, materials, labor, institutions, decisions, and ecological effects.
-- [Design Education and Its Future](https://brandiejanow.github.io/Knowledge-of-Design/design-education.html) examines education, STEAM, professional preparation, and connections between learning and practice. The study develops independently authored work begun in 2024 and is marked as research in development.
+- [Design Education and Its Future](https://brandiejanow.github.io/Knowledge-of-Design/research.html#design-education) examines AI in design education alongside curriculum, ethics, research, STEAM and industry preparation. The concise study and its curriculum chart are published within the Research page.
 - [Making a Design Culture](https://brandiejanow.github.io/Knowledge-of-Design/making-a-design-culture.html) is a full, readable research publication.
 - [KoD Connect: The Project Before the Project](https://brandiejanow.github.io/Knowledge-of-Design/connect.html#session-01) is the first online session record.
 
