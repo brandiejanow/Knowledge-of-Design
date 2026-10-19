@@ -4,7 +4,7 @@
 .kod-ecosystems h1,.kod-ecosystems h2,.kod-ecosystems h3,.kod-ecosystems h4{font-family:"Bebas Neue","Arial Narrow",sans-serif;font-weight:400;letter-spacing:.01em;line-height:1.06;color:var(--ink)}
 .kod-ecosystems .eyebrow{color:var(--eco-blue)}
 .eco-hero{padding:clamp(42px,6vw,76px) clamp(22px,5vw,74px) clamp(38px,5vw,70px);border-bottom:1px solid var(--eco-line);background:var(--paper)}
-.eco-hero h1{font-size:clamp(50px,7vw,92px);margin:0 0 18px;line-height:1.01}
+.eco-hero h1{font-size:28px;margin:0 0 18px;line-height:1;letter-spacing:.015em}
 .eco-hero .eyebrow{margin:0 0 20px}
 .eco-deck{font-size:clamp(18px,1.85vw,25px);line-height:1.4;max-width:865px;letter-spacing:-.015em;margin:0 0 17px}
 .eco-intro{font-size:14px;line-height:1.75;max-width:870px;color:#393939;margin:0 0 20px}
@@ -50,4 +50,6 @@
 .eco-cycle-track span{display:block;font-family:"Bebas Neue","Arial Narrow",sans-serif;font-size:clamp(23px,2.3vw,31px);line-height:1.1}
 .eco-cycle-track p{font-size:12px;line-height:1.6;color:#444;margin:12px 0 0}
 @media(max-width:860px){.eco-section-head{grid-template-columns:1fr;gap:12px}.eco-crosscut{grid-template-columns:1fr}.eco-evidence-grid{grid-template-columns:1fr}.eco-cycle-track{grid-template-columns:repeat(2,minmax(0,1fr))}}
-@media(max-width:570px){.eco-hero{padding:36px 22px 39px}.eco-hero h1{font-size:clamp(47px,10vw,65px)}.eco-section{padding:33px 22px}.eco-section-head h2{font-size:33px}.eco-layer-figure,.eco-cycle{padding:15px}.eco-layer{grid-template-columns:25px minmax(0,1fr);gap:10px;padding:15px 12px}.eco-layer-tag{grid-column:2;justify-self:start;margin-top:-2px}.eco-layer h4{font-size:23px}.eco-question-grid,.eco-next{grid-template-columns:1fr}.eco-cycle-track>div{padding:15px 12px;min-height:135px}}
+@media(max-width:570px){.eco-hero{padding:36px 22px 39px}.eco-hero h1{font-size:25px}.eco-section{padding:33px 22px}.eco-section-head h2{font-size:33px}.eco-layer-figure,.eco-cycle{padding:15px}.eco-layer{grid-template-columns:25px minmax(0,1fr);gap:10px;padding:15px 12px}.eco-layer-tag{grid-column:2;justify-self:start;margin-top:-2px}.eco-layer h4{font-size:23px}.eco-question-grid,.eco-next{grid-template-columns:1fr}.eco-cycle-track>div{padding:15px 12px;min-height:135px}}
+
+@media(max-width:700px){.eco-hero h1{font-size:25px}}
