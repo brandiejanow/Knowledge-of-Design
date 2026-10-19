@@ -53,3 +53,72 @@
 @media(max-width:570px){.eco-hero{padding:36px 22px 39px}.eco-hero h1{font-size:25px}.eco-section{padding:33px 22px}.eco-section-head h2{font-size:33px}.eco-layer-figure,.eco-cycle{padding:15px}.eco-layer{grid-template-columns:25px minmax(0,1fr);gap:10px;padding:15px 12px}.eco-layer-tag{grid-column:2;justify-self:start;margin-top:-2px}.eco-layer h4{font-size:23px}.eco-question-grid,.eco-next{grid-template-columns:1fr}.eco-cycle-track>div{padding:15px 12px;min-height:135px}}
 
 @media(max-width:700px){.eco-hero h1{font-size:25px}}
+
+
+/* Six connected research areas and example on the Design Ecosystems page. */
+.eco-network{
+  --eco-network-gap:clamp(20px,3vw,52px);
+  display:grid;
+  grid-template-columns:minmax(0,1fr) minmax(200px,.72fr) minmax(0,1fr);
+  gap:var(--eco-network-gap);
+  align-items:stretch;
+  margin:18px 0 12px;
+}
+.eco-network-side{display:grid;grid-template-rows:repeat(3,minmax(130px,1fr));gap:14px}
+.eco-network-node{
+  position:relative;min-width:0;
+  background:var(--paper);border:1px solid var(--eco-line);border-left:4px solid var(--eco-blue);
+  padding:18px 17px;
+}
+.eco-network-left .eco-network-node:nth-child(2){border-left-color:var(--eco-purple)}
+.eco-network-left .eco-network-node:nth-child(3){border-left-color:var(--eco-pink)}
+.eco-network-right .eco-network-node:nth-child(1){border-left-color:var(--eco-orange)}
+.eco-network-right .eco-network-node:nth-child(2){border-left-color:var(--eco-blue)}
+.eco-network-right .eco-network-node:nth-child(3){border-left-color:var(--eco-purple)}
+.eco-network-node::after{
+  content:"";position:absolute;top:50%;left:100%;
+  width:var(--eco-network-gap);border-top:1px solid #9b9b9b;
+}
+.eco-network-right .eco-network-node::after{left:auto;right:100%}
+.eco-network-number{display:block;color:var(--eco-blue);font-size:10px;text-transform:uppercase;letter-spacing:.08em;font-weight:600;margin-bottom:13px}
+.eco-network-node h4{font-size:clamp(19px,2vw,27px);line-height:1.07;margin:0 0 8px}
+.eco-network-node p{font-size:12px;line-height:1.56;color:#484848;margin:0}
+.eco-network-center{
+  display:flex;align-items:center;justify-content:center;position:relative;
+  border-left:1px solid #9b9b9b;border-right:1px solid #9b9b9b;
+}
+.eco-network-center::after{
+  content:"";position:absolute;top:50%;left:0;right:0;
+  border-top:1px solid #9b9b9b;z-index:0;
+}
+.eco-network-hub{
+  position:relative;z-index:1;width:100%;padding:29px 17px;
+  border:2px solid var(--eco-blue);text-align:center;
+  background:var(--paper);
+}
+.eco-network-hub>span{display:block;color:var(--eco-blue);font-size:10px;text-transform:uppercase;letter-spacing:.09em;font-weight:600;margin-bottom:13px}
+.eco-network-hub strong{display:block;font-family:"Bebas Neue","Arial Narrow",sans-serif;font-weight:400;font-size:clamp(26px,2.7vw,38px);line-height:1.05;margin:0 0 18px}
+.eco-network-hub p{font-size:12px;line-height:1.55;margin:4px 0;color:#383838}
+.eco-project-example{
+  display:grid;grid-template-columns:minmax(155px,.62fr) minmax(0,1.38fr);
+  gap:clamp(24px,4vw,50px);
+  margin-top:34px;padding:26px 0 0;border-top:1px solid var(--eco-line);
+}
+.eco-project-example h3{font-size:clamp(26px,3vw,37px);margin:0}
+.eco-project-example .eyebrow{margin-bottom:15px}
+.eco-project-example>div:last-child p{font-size:14px;line-height:1.7;color:#3f3f3f;margin:0 0 14px;max-width:850px}
+@media(max-width:960px){
+  .eco-network{grid-template-columns:repeat(2,minmax(0,1fr));gap:14px}
+  .eco-network-side{display:contents}
+  .eco-network-center{grid-column:1/-1;grid-row:1;border:0;margin-bottom:12px}
+  .eco-network-center::after{content:none}
+  .eco-network-hub{max-width:460px;padding:25px 20px}
+  .eco-network-node::after{content:none}
+  .eco-network-node{min-height:126px}
+}
+@media(max-width:620px){
+  .eco-network{grid-template-columns:1fr}
+  .eco-network-node{min-height:0;padding:17px 14px}
+  .eco-network-center{margin-bottom:4px}
+  .eco-project-example{grid-template-columns:1fr;gap:14px}
+}
