@@ -27,7 +27,7 @@ The homepage introduces KoD through selected examples of publications, KoD Conne
 ## Structured data
 
 - `data/people.csv`, `data/talks.csv`, `data/editions.csv`, `data/advisory.csv`, `data/global.csv`, and `data/research.csv` preserve research and archive records.
-- `data/connect.csv` provides the record of online sessions, with links to associated inquiry notes.
+- `data/connect.csv` provides the record of online sessions. The research-page field stays empty when there is no published destination.
 - `data/making-a-design-culture.json` preserves structured publication data.
 
 ## Publication integrity
@@ -48,3 +48,14 @@ Public copy describes research, methods, participants, evidence, dates and findi
 KoD preserves the complete history of its own programs and contributors. Work independently authored before KoD retains its own date and project record; KoD may develop a separate, properly credited study from that earlier work. The study page identifies the lead researcher and authors near the title and distinguishes contributors from research authors. Prior advisory work does not imply that a university adopted later proposals because of it.
 
 Before new research is added here, follow the project placement and publication rules in [AGENTS.md](AGENTS.md). Keep independent Saudi Creative Economy research in its own research publication and index it through the personal research catalogue. Keep the Rukun Saudi Creative Index limited to Rukun's own research.
+
+
+## Maintenance checkpoint: October 31, 2026
+
+- Reviewed all 13 HTML routes and nine CSV files against revision `098a1c6f0dc377135e000624be881cde68d6c503`.
+- Added year-specific navigation, a route to Lessons Learned from Research, article contents, and consistent provenance links. Made existing curriculum counts visible and improved small-text contrast without changing chart values or the decorative palette.
+- Moved the paper's existing Research Approach directly after its abstract. Its argument, quotations, authorship and research status are unchanged.
+- Corrected the SXSW London title and June 3, 2026 date using the [official session program](https://sxswlondon.com/session/from-vision-to-reality-designing-at-national-scale-c58fc057), including the corresponding five Global data rows.
+- Presented four Advisory reflections as dated discussion summaries rather than direct quotations after comparison with their source transcript. The separate 2025 participant perspectives are unchanged.
+- Cleared the Connect data link to a nonexistent research section. The session page and recorded research status are retained.
+- Next checkpoint: verify unresolved quotation sources and name variants, and review undated signal and industry-interpretation entries individually before any reclassification. This update does not certify every underlying recording or change completed-study statuses.
