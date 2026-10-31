@@ -59,3 +59,15 @@ Before new research is added here, follow the project placement and publication 
 - Presented four Advisory reflections as dated discussion summaries rather than direct quotations after comparison with their source transcript. The separate 2025 participant perspectives are unchanged.
 - Cleared the Connect data link to a nonexistent research section. The session page and recorded research status are retained.
 - Next checkpoint: verify unresolved quotation sources and name variants, and review undated signal and industry-interpretation entries individually before any reclassification. This update does not certify every underlying recording or change completed-study statuses.
+
+
+### October 31, 2026: homepage and Research editorial revision
+
+- Scope: `index.html` and `research.html`, following the navigation and readability release at `d3df2e8da4350dab99b223069d5ae165169b962e`. This is a targeted presentation update, not another full archive audit.
+- Replaced the homepage's general introduction with the subjects KoD examines and added three routes into existing education, ecosystem, and program-review material. The featured publication, Connect session, and 2025 edition remain visible.
+- Put Making a Design Culture first on Research, with its existing method, five-part proposition, authorship, and a link to the full paper. The paper itself is unchanged.
+- Added a concise account of already-public November 2025 and September 2026 program reviews. Observations and proposals remain distinct from implementation and measured outcomes.
+- Tightened the education introduction while retaining the exact advisory-role credit and all 12 curriculum counts. Preserved the six-area model and all six focus-group records and credits.
+- Separated the external researcher-care reference and proposed inquiry from the ecosystem model. Both source links and the existing anchor are retained.
+- Static verification covers existing anchors, local page and fragment links, unchanged chart/model data, retained credits, and the three-file change scope. Live deployment and rendered-page verification remain release checks, not completed outcomes of this local pass.
+- Next checkpoint: inspect the two revised pages at desktop and narrow widths and verify the deployed content. The earlier unresolved quotation/name checks and individual review of undated signals remain open. Coded-status labels have not been mapped to dated focus groups without exact source identifiers.
