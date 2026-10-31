@@ -71,3 +71,29 @@ Before new research is added here, follow the project placement and publication 
 - Separated the external researcher-care reference and proposed inquiry from the ecosystem model. Both source links and the existing anchor are retained.
 - Static verification covers existing anchors, local page and fragment links, unchanged chart/model data, retained credits, and the three-file change scope. Live deployment and rendered-page verification remain release checks, not completed outcomes of this local pass.
 - Next checkpoint: inspect the two revised pages at desktop and narrow widths and verify the deployed content. The earlier unresolved quotation/name checks and individual review of undated signals remain open. Coded-status labels have not been mapped to dated focus groups without exact source identifiers.
+
+
+### October 31, 2026: remove extra section menus
+
+- Reviewed all 13 HTML pages at commit `5b39689ed9d2a44dbcfa2743200ccfdb7b227fd7`. Following the author's site-wide direction, removed the added in-page contents menus from Editions, Talks, People, Research, and Making a Design Culture, and removed the separate Method and scope link from Research. This overrides the earlier presentation choice recorded above.
+- Preserved the main navigation, all section and year anchors, contextual links, paper text, citations, figures, source credits, and historical maintenance entries. The menu removal does not change research findings or statuses.
+- Static checks compare all page anchors and main navigation with the base version and confirm that no page-contents menus or Method and scope labels remain. Live deployment and rendered verification remain release checks.
+- Next checkpoint: verify the published pages at desktop and narrow widths. The earlier source and quotation checks remain open.
+
+- Corrected the omission of reviews after the 2024 edition: added the January 19 and February 2, 2025 speaker feedback and a separately attributed later response from KoD Platform Overview, From Feedback to Action. Research and Lessons Learned now distinguish observations, proposals, documented changes, and unmeasured effects. No private transcript links or participant details were added.
+
+- Following the author's further direction, removed the Lessons Learned introductory rationale, repeated event overviews, and status glossary. Retained the dated feedback, proposed responses, recorded statuses, source note, and distinction between documented changes and measured improvements.
+
+- Moved the three Lessons Learned review dates from prominent headings to concise source notes within their respective sections. Dates and stable section anchors remain available.
+
+- Removed the generic closing source/privacy block and Return to Research link at the author's request. Review-specific source notes remain directly with the relevant material.
+
+- Removed the external researcher-care reference and proposed inquiry section from Research at the author's request. This intentionally removes its `eco-researcher-heading` anchor; the earlier maintenance entry preserves the history of that addition. KoD studies and figures are unchanged.
+
+- Removed the dated introductory sentence beneath Advisory discussion summaries at the author's request; the nonquoted summaries remain unchanged.
+
+- Identified the five existing 2025 perspectives as KoD Advisory Board discussion, distinct from the Advisory Circle, following the author's clarification. Quote text is unchanged. Linked the four Global contributor names to their verified personal websites or LinkedIn profiles without changing names or roles.
+
+- Added About KoD to the main navigation on all 11 content pages, retaining `provenance.html` and its existing substantive content. Removed standalone KoD home links from footers. Clarified the homepage recommendation card as Advisory Board feedback from KoD speakers, distinct from the Advisory Circle; operational review participants are not relabeled.
+
+- Reorganized Lessons Learned around specific strengths and six paired feedback/response topics, using the author's Noor Riyadh benchmark for structure only. Removed repeated meeting introductions, visible date notes, and status labels; documented changes remain distinct from proposals in the response text. Existing review anchors remain attached to relevant findings.
