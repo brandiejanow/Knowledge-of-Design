@@ -97,3 +97,8 @@ Before new research is added here, follow the project placement and publication 
 - Added About KoD to the main navigation on all 11 content pages, retaining `provenance.html` and its existing substantive content. Removed standalone KoD home links from footers. Clarified the homepage recommendation card as Advisory Board feedback from KoD speakers, distinct from the Advisory Circle; operational review participants are not relabeled.
 
 - Reorganized Lessons Learned around specific strengths and six paired feedback/response topics, using the author's Noor Riyadh benchmark for structure only. Removed repeated meeting introductions, visible date notes, and status labels; documented changes remain distinct from proposals in the response text. Existing review anchors remain attached to relevant findings.
+
+### October 31, 2026: approved link-preview image
+
+- Replaced the link-preview artwork with the approved original KoD logo on an off-white 1200 by 630 canvas. Updated the Open Graph and Twitter image URLs on all 13 HTML routes to a new versioned filename; retained the previous image and all page content.
+- Checked the draft at full size, thumbnail size, and in a centered square crop. Next checkpoint: verify the deployed image bytes and all 13 image metadata references; social platforms may retain cached previews independently.
